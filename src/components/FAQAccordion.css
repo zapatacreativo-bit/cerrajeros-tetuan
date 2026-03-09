@@ -5,7 +5,7 @@
 }
 
 .faq-item {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     margin-bottom: 10px;
 }
 
@@ -19,7 +19,7 @@
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
-    color: var(--color-primary);
+    color: #fff;
     font-family: var(--font-montserrat);
     font-weight: 600;
     font-size: 1.1rem;
@@ -73,6 +73,6 @@
 
 .faq-answer {
     padding-bottom: 20px;
-    color: var(--color-text-main);
+    color: #d1d5db;
     line-height: 1.6;
 }
