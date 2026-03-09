@@ -1,0 +1,234 @@
+/* Footer.css - Boadilla Replication */
+
+.footer-section {
+    background-color: #030b14;
+    /* Deep Navy, almost black */
+    color: #f8fafc;
+    border-top: 1px solid var(--color-border);
+    padding-top: 4rem;
+    margin-top: auto;
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    padding-bottom: 4rem;
+}
+
+@media (min-width: 640px) {
+    .footer-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer-grid {
+        grid-template-columns: 2fr 1fr 1fr 1.5fr;
+    }
+}
+
+.footer-col {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Base Typography */
+.footer-title {
+    color: #ffffff;
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    font-family: var(--font-montserrat);
+}
+
+.footer-desc {
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    max-width: 300px;
+}
+
+/* Logo Setup */
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    margin-bottom: 1.5rem;
+}
+
+.footer-logo-icon {
+    background-color: rgba(20, 20, 15, 0.8);
+    /* Dark glass effect */
+    padding: 0.75rem;
+    border-radius: 0.75rem;
+    /* Smoother square corners */
+    border: 1px solid rgba(255, 215, 0, 0.5);
+    /* Clearer yellow border */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-logo-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer-logo-title {
+    font-family: var(--font-montserrat);
+    font-weight: 800;
+    font-size: 1.5rem;
+    color: #ffffff;
+    line-height: 1.1;
+}
+
+.footer-logo-subtitle {
+    font-family: var(--font-montserrat);
+    font-size: 0.875rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: #94a3b8;
+}
+
+/* Phone CTA */
+.footer-phone {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-secondary);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-phone:hover {
+    color: var(--color-secondary-hover);
+}
+
+/* Links */
+.footer-links {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.zona-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+}
+
+.footer-links a {
+    color: #94a3b8;
+    /* slate-400 */
+    text-decoration: none;
+    font-size: 0.875rem;
+    transition: all 0.2s ease;
+    display: inline-block;
+}
+
+.footer-links a:hover {
+    color: #ffffff;
+    transform: translateX(4px);
+}
+
+/* Trust Column */
+.footer-trust-box {
+    background: rgba(10, 25, 47, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.trust-stars {
+    color: var(--color-secondary);
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 2px;
+}
+
+.footer-trust-box p {
+    color: var(--color-text-muted);
+    font-size: 0.8125rem;
+    line-height: 1.5;
+}
+
+.map-placeholder {
+    height: 100px;
+    background-color: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-text-muted);
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+/* Bottom Bar */
+.footer-bottom {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 1.5rem 0;
+}
+
+.footer-bottom-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .footer-bottom-inner {
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: left;
+    }
+}
+
+.footer-bottom p {
+    color: #64748b;
+    /* slate-500 */
+    font-size: 0.875rem;
+}
+
+.payment-icons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.pay-icon {
+    font-size: 0.65rem;
+    font-weight: 800;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    letter-spacing: 0.05em;
+    opacity: 0.7;
+}
+
+.bizum-badge {
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #333;
+}
+
+.card-badge {
+    background-color: #fff;
+    color: #000;
+}
+
+.cash-badge {
+    background-color: #10b981;
+    color: #fff;
+}
