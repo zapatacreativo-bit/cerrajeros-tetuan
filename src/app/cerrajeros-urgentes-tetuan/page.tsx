@@ -122,10 +122,10 @@ export default function CerrajerosUrgentes() {
                     <div className="about-content">
                         <h2 className="section-title">Tu tranquilidad en 20 minutos</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿Se ha quedado fuera de casa justo cuando regresaba del Mercado de Maravillas? No hay nada que genere más impotencia que estar frente a tu puerta y no poder entrar.
+                            ¿Se ha quedado fuera de casa justo cuando regresaba del Mercado de Maravillas? No hay nada que genere más impotencia que estar frente a tu puerta y no poder entrar. Nuestros <strong>cerrajeros urgentes en Tetuán</strong> resuelven esta situación <em>en menos de 20 minutos</em>.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            En esos momentos críticos, necesitas un vecino cerrajero rápido. Nuestras unidades móviles evitan el tráfico denso de Bravo Murillo llegando en menos de 20 minutos. No enviamos a alguien desde otro extremo de Madrid, enviamos al técnico que ya patrulla por Bellas Vistas.
+                            En esos momentos críticos, necesitas un vecino cerrajero rápido. Nuestras <strong>unidades móviles</strong> evitan el tráfico denso de Bravo Murillo llegando en menos de 20 minutos. No enviamos a alguien desde otro extremo de Madrid, enviamos al técnico que ya patrulla por Bellas Vistas.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -188,7 +188,7 @@ export default function CerrajerosUrgentes() {
                     <div>
                         <h2 className="section-title">Especialistas Vanguardistas de Urgencia</h2>
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>Para los lofts y oficinas de Castillejos y Cuzco</h3>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>En el corazón financiero de Tetuán (AZCA), un fallo en sistemas de control de accesos Smart Locks requiere asistencia de élite tecnológica, no fuerza bruta.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>En el corazón financiero de Tetuán (AZCA), un fallo en <em>sistemas de control de accesos Smart Locks</em> requiere <strong>asistencia de élite tecnológica</strong>, no fuerza bruta. Si necesitas además un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700' }}>cambio de cerraduras en Tetuán</Link>, lo realizamos en la misma intervención.</p>
 
                         <div style={{ padding: '2rem', background: 'rgba(26, 42, 60, 0.4)', borderRadius: '1rem', border: '1px solid #1e3a5f', marginBottom: '2rem' }}>
                             <h4 style={{ color: '#fff', fontSize: '1.2rem', margin: '0 0 0.5rem 0' }}>Auditoría Exprés tras el aviso</h4>
@@ -199,6 +199,19 @@ export default function CerrajerosUrgentes() {
                             <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con el técnico 644936742</a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Más Servicios de Cerrajería Urgente en Tetuán</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Somos tus <Link href="/" style={{ color: '#FFD700' }}>cerrajeros de confianza en Tetuán</Link>. Además de urgencias, ofrecemos <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700' }}>apertura de puertas en Tetuán</Link> con <em>técnicas no destructivas</em> y servicio de <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700' }}>cerrajeros 24 horas en Tetuán</Link> para asistencia nocturna y festivos.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Tras solucionar tu emergencia, refuerza tu seguridad con un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700' }}>cambio de cerraduras en Tetuán</Link> de <strong>alta seguridad certificada</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Contacta ahora para presupuesto gratuito</Link>.
+                    </p>
                 </div>
             </section>
 

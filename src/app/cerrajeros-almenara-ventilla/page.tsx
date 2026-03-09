@@ -84,7 +84,7 @@ export default function AlmenaraVentilla() {
                             CERRAJERÍA <span style={{ color: '#FFD700', fontFamily: 'var(--font-montserrat)', fontStyle: 'italic', display: 'block', marginTop: '0.5rem' }}>Vecinal 24H</span>
                         </h1>
                         <p style={{ fontSize: '1.25rem', color: '#d1d5db', marginBottom: '2.5rem', lineHeight: 1.6, maxWidth: '600px' }}>
-                            Tu cerrajero vecinal de máxima confianza. Aperturas urgentes, sustitución de cerrojos y refuerzo de puertas en pisos familiares de toda la zona Norte de Tetuán.
+                            Tu <strong>cerrajero vecinal</strong> de máxima confianza. <em>Aperturas urgentes</em>, sustitución de cerrojos y <strong>refuerzo de puertas</strong> en pisos familiares de toda la <em>zona Norte de Tetuán</em>.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
@@ -181,7 +181,7 @@ export default function AlmenaraVentilla() {
                         </div>
                         <h2 style={{ fontSize: '2rem', color: '#fff', marginBottom: '1.5rem' }}>¿Preocupado por la fragilidad de tu puerta original?</h2>
                         <p style={{ color: '#d1d5db', fontSize: '1.1rem', lineHeight: 1.6, maxWidth: '800px' }}>
-                            Almenara y La Ventilla atesoran viviendas familiares e históricas. Muchas puertas de madera originales están hoy desprotegidas ante la ola de métodos silenciosos o la palanqueta.
+                            <strong>Almenara y La Ventilla</strong> atesoran viviendas familiares e históricas. Muchas <em>puertas de madera originales</em> están hoy desprotegidas ante la ola de <strong>métodos silenciosos</strong> o la palanqueta.
                         </p>
                         <div className="vuln-grid">
                             <div style={{ background: 'rgba(0,0,0,0.3)', padding: '1.5rem', borderRadius: '0.5rem', borderLeft: '3px solid #dc2626' }}>
@@ -280,6 +280,25 @@ export default function AlmenaraVentilla() {
                 <div className="container fade-in-up">
                     <h2 className="section-title" style={{ textAlign: 'center' }}>Dudas resueltas Almenara-Ventilla</h2>
                     <FAQAccordion faqs={faqs} />
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ padding: '4rem 0', background: '#030b14' }}>
+                <div className="container">
+                    <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Servicios Relacionados en Tetuán</h2>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
+                        Desde <strong>Almenara y La Ventilla</strong>, nuestros <em>cerrajeros en Tetuán</em> se desplazan rápidamente a cualquier punto del distrito.
+                        Si necesitas una <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de puertas en Tetuán</Link> o un{' '}
+                        <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de bombín</Link>, contáctanos.
+                        También ofrecemos <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerraduras antibumping</Link> y{' '}
+                        <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajeros urgentes en Tetuán</Link>.
+                    </p>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
+                        Consulta nuestras <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas de cobertura en Tetuán</Link> o{' '}
+                        visita nuestra <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>página principal de Cerrajeros Tetuán</Link> para más información.
+                        ¿Tienes dudas? Revisa las <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>preguntas frecuentes</Link>.
+                    </p>
                 </div>
             </section>
         </main>

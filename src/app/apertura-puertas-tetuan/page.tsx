@@ -122,10 +122,10 @@ export default function AperturaPuertas() {
                     <div className="about-content">
                         <h2 className="section-title">Apertura Rápida y Segura en tu Barrio</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿Te has quedado fuera de casa después de hacer unas compras en el Mercado de Maravillas o has perdido las llaves paseando por la Calle de Bravo Murillo? Entendemos perfectamente la impotencia de estar frente a tu puerta y no poder entrar.
+                            ¿Te has quedado fuera de casa después de hacer unas compras en el Mercado de Maravillas o has perdido las llaves paseando por la Calle de Bravo Murillo? Entendemos perfectamente la impotencia de estar frente a tu puerta y no poder entrar. Nuestro servicio de <strong>apertura de puertas en Tetuán</strong> resuelve estas situaciones <em>sin causar ningún daño a tu cerradura</em>.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Lo que necesitas es un vecino experto en aperturas de precisión que actúe con celeridad. Recorremos Cuatro Caminos, Castillejos, Bellas Vistas y Valdeacederas en minutos con furgonetas equipadas. Realizamos extracciones de llaves partidas e intrusiones técnicas con herramientas tipo Lishi para que puedas retomar tu día inmediatamente y sin cambiar costosos herrajes si no es necesario.
+                            Lo que necesitas es un vecino experto en <em>aperturas de precisión</em> que actúe con celeridad. Recorremos Cuatro Caminos, Castillejos, Bellas Vistas y Valdeacederas en minutos con <strong>furgonetas equipadas con herramental profesional</strong>. Realizamos extracciones de llaves partidas e intrusiones técnicas con herramientas tipo Lishi para que puedas retomar tu día inmediatamente y sin cambiar costosos herrajes si no es necesario.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -188,7 +188,7 @@ export default function AperturaPuertas() {
                     <div>
                         <h2 className="section-title">Urgencias Nocturnas y Asistencia Integral</h2>
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>Protección tras incidentes en Estrecho y Remonta</h3>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Si has sido víctima de un robo o intento de intrusión forzada, la apertura de puertas no es suficiente. Actuamos en todo el corredor de Lope de Haro instalando cilindros antibumping certificados inmediatamente para blindar tu puerta.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Si has sido víctima de un robo o intento de intrusión forzada, la apertura de puertas no es suficiente. Actuamos en todo el corredor de Lope de Haro instalando <strong>cilindros antibumping certificados</strong> inmediatamente para blindar tu puerta. Si necesitas reforzar tu seguridad tras una apertura, consulta nuestro servicio de <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700' }}>cambio de bombines en Tetuán</Link>.</p>
 
                         <div style={{ padding: '2rem', background: 'rgba(26, 42, 60, 0.4)', borderRadius: '1rem', border: '1px solid #1e3a5f', marginBottom: '2rem' }}>
                             <h4 style={{ color: '#fff', fontSize: '1.2rem', margin: '0 0 0.5rem 0' }}>Comercios en Calle Orense</h4>
@@ -202,6 +202,19 @@ export default function AperturaPuertas() {
                             <li style={{ color: '#94a3b8' }}>✔ Auditoría Preventiva Gratuita</li>
                         </ul>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Servicios de Cerrajería Relacionados en Tetuán</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Como <Link href="/" style={{ color: '#FFD700' }}>cerrajeros en Tetuán</Link> ofrecemos mucho más que aperturas. Tras abrir tu puerta, podemos realizar un <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700' }}>cambio de bombines en Tetuán</Link> para evitar que vuelva a ocurrir, o instalar <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700' }}>cerraduras antibumping</Link> con <em>protección certificada contra técnicas de robo silencioso</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Si tu situación es una <strong>emergencia fuera de horario</strong>, nuestro equipo de <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700' }}>cerrajeros urgentes en Tetuán</Link> está disponible las 24 horas. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Solicita tu presupuesto sin compromiso</Link> y recupera la tranquilidad.
+                    </p>
                 </div>
             </section>
 

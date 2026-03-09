@@ -122,10 +122,10 @@ export default function CambioCerraduras() {
                     <div className="about-content">
                         <h2 className="section-title">Tu Seguridad en Manos Expertas</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿Te acabas de mudar a un piso en Bellas Vistas o has perdido un juego de llaves paseando por Bravo Murillo? El cambio de cerraduras en Tetuán no es solo mantenimiento, es la decisión clave para proteger lo que más te importa.
+                            ¿Te acabas de mudar a un piso en Bellas Vistas o has perdido un juego de llaves paseando por Bravo Murillo? El <strong>cambio de cerraduras en Tetuán</strong> no es solo mantenimiento, es la decisión clave para proteger lo que más te importa.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            En nuestra cerrajería reemplazamos cilindros obsoletos por maquinaria de alta precisión certificada contra bumping e impresioning. No importa si tu portal requiere restaurar borjas antiguas o si tu loft demanda sistemas invisibles Bluetooth.
+                            En nuestra cerrajería reemplazamos cilindros obsoletos por <em>maquinaria de alta precisión certificada contra bumping e impresioning</em>. No importa si tu portal requiere restaurar borjas antiguas o si tu loft demanda <strong>sistemas invisibles Bluetooth</strong>.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -192,14 +192,27 @@ export default function CambioCerraduras() {
                     <div>
                         <h2 className="section-title">Anticiparse al Riesgo</h2>
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>El Bumping silencioso ataca hoy</h3>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>En la zona de Ventilla o Francos Rodríguez, muchas puertas siguen con cerraduras antiguas de dientes. Esto es un error crítico. Actualizamos a cilindros de perfil europeo con pines de acero anti-taladro en menos de 30 minutos.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>En la zona de Ventilla o Francos Rodríguez, muchas puertas siguen con cerraduras antiguas de dientes. Esto es un error crítico. Actualizamos a <strong>cilindros de perfil europeo con pines de acero anti-taladro</strong> en menos de 30 minutos. Complementa tu seguridad con un <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700' }}>cambio de bombines en Tetuán</Link> de última generación.</p>
 
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Si sientes que tu llave 'raya' al entrar o que necesitas jugar con el bombo de la puerta para que abra, el colapso de pines está cerca. Es más barato hacer el cambio en horario comercial hoy que pagar una urgencia nocturna el fin de semana.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Si sientes que tu llave <em>'raya' al entrar</em> o que necesitas jugar con el bombo de la puerta para que abra, el colapso de pines está cerca. Es más barato hacer el cambio en horario comercial hoy que pagar una urgencia nocturna el fin de semana. También puedes consultar nuestro servicio de <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#FFD700' }}>instalación de cerraduras en Tetuán</Link> para puertas nuevas.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con un Técnico Ahora</a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Servicios Complementarios en Tetuán</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Como <Link href="/" style={{ color: '#FFD700' }}>cerrajeros en Tetuán</Link> con años de experiencia, ofrecemos una gama completa de servicios. Tras el cambio de cerradura, asegúrate de instalar un <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700' }}>bombín antibumping en Tetuán</Link> para una <em>protección integral contra métodos de robo silencioso</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Si te has quedado fuera de casa, nuestros <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700' }}>cerrajeros urgentes en Tetuán</Link> llegan en <strong>menos de 20 minutos</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Pide presupuesto sin compromiso</Link> para cualquier servicio de cerrajería.
+                    </p>
                 </div>
             </section>
 

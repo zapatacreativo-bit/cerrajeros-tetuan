@@ -84,7 +84,7 @@ export default function CuzcoAzca() {
                             CERRAJERÍA <span style={{ color: '#FFD700', fontFamily: 'var(--font-montserrat)', fontStyle: 'italic', display: 'block', marginTop: '0.5rem' }}>Premium Security</span>
                         </h1>
                         <p style={{ fontSize: '1.25rem', color: '#d1d5db', marginBottom: '2.5rem', lineHeight: 1.6, maxWidth: '600px' }}>
-                            El corazón financiero de Madrid exige un nivel de seguridad excepcional. Soluciones biométricas y aperturas confidenciales ultrarrápidas.
+                            El <strong>corazón financiero de Madrid</strong> exige un nivel de <em>seguridad excepcional</em>. <strong>Soluciones biométricas</strong> y <em>aperturas confidenciales</em> ultrarrápidas.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
@@ -181,7 +181,7 @@ export default function CuzcoAzca() {
                         </div>
                         <h2 style={{ fontSize: '2rem', color: '#fff', marginBottom: '1.5rem' }}>¿Diriges operaciones en el Paseo de la Castellana?</h2>
                         <p style={{ color: '#d1d5db', fontSize: '1.1rem', lineHeight: 1.6, maxWidth: '800px' }}>
-                            Los rascacielos y oficinas premium que dibujan esta zona no pueden conformarse con cerraduras residenciales de gama baja. Un bloqueo de un servidor o una pérdida de llaves es un grave riesgo corporativo.
+                            Los rascacielos y <strong>oficinas premium</strong> que dibujan esta zona no pueden conformarse con <em>cerraduras residenciales de gama baja</em>. Un bloqueo de un servidor o una <strong>pérdida de llaves</strong> es un grave riesgo corporativo.
                         </p>
                         <div className="vuln-grid">
                             <div style={{ background: 'rgba(0,0,0,0.3)', padding: '1.5rem', borderRadius: '0.5rem', borderLeft: '3px solid #dc2626' }}>
@@ -280,6 +280,24 @@ export default function CuzcoAzca() {
                 <div className="container fade-in-up">
                     <h2 className="section-title" style={{ textAlign: 'center' }}>Dudas resueltas Área Financiera</h2>
                     <FAQAccordion faqs={faqs} />
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ padding: '4rem 0', background: '#030b14' }}>
+                <div className="container">
+                    <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Cerrajería Profesional en Tetuán</h2>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
+                        En la zona de <strong>Cuzco y AZCA</strong>, somos referentes en <em>seguridad corporativa</em>.
+                        Conoce nuestro servicio de <Link href="/apertura-cajas-fuertes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de cajas fuertes</Link>,{' '}
+                        <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerraduras antibumping</Link> y{' '}
+                        <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajeros urgentes en Tetuán</Link>.
+                    </p>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
+                        Regresa a la <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>página principal de Cerrajeros Tetuán</Link> o explora las{' '}
+                        <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas que cubrimos en Tetuán</Link>.
+                        Contacta en <Link href="/contacto-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>nuestra página de contacto</Link>.
+                    </p>
                 </div>
             </section>
         </main>

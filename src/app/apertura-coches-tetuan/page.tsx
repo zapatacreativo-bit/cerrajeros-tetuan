@@ -122,10 +122,10 @@ export default function AperturaCoches() {
                     <div className="about-content">
                         <h2 className="section-title">Llaves dentro, problema resuelto</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿Te has dejado las llaves en el contacto tras una breve parada en Bravo Murillo? Ver tu coche bloqueado es frustrante. Lo que menos necesitas es un servicio lento que te haga perder el día o rompa un cristal forzando a ir al taller.
+                            ¿Te has dejado las llaves en el contacto tras una breve parada en Bravo Murillo? Ver tu coche bloqueado es frustrante. Nuestro servicio de <strong>apertura de coches en Tetuán</strong> resuelve la situación <em>sin romper cristales ni dañar la carrocería</em>.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Como cerrajeros de automoción en Tetuán, conocemos cada callejón y parking subterráneo. Llegamos en apenas 15 minutos con herramientas Lishi homologadas, simulando la llave original para abrir la puerta limpiamente.
+                            Como <em>cerrajeros de automoción</em> en Tetuán, conocemos cada callejón y parking subterráneo. Llegamos en apenas <strong>15 minutos</strong> con herramientas Lishi homologadas, simulando la llave original para abrir la puerta limpiamente.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -194,12 +194,25 @@ export default function AperturaCoches() {
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>Duplicados tras Pérdida Total</h3>
                         <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Si perdiste la única llave por el Parque Rodríguez Sahagún, remolcar el coche es costoso e inviable. Nosotros llevamos el taller a la acera: decodificamos el bombín, tallamos mecánicamente la espada y programamos el inmovilizador en la calle.</p>
 
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>En Tetuán la seguridad física también aplica a tu medio de transporte. Si una cerradura fue forzada con ganzúas baratas en un intento de robo, reemplazamos cilindros de puerta para que regreses a la tranquilidad del garaje blindado.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>En Tetuán la <strong>seguridad física</strong> también aplica a tu medio de transporte. Si una cerradura fue forzada con ganzúas baratas en un intento de robo, reemplazamos cilindros de puerta. Nuestros <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700' }}>cerrajeros 24 horas en Tetuán</Link> están disponibles <em>incluso de madrugada</em>.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Rescate Vehicular Ya</a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>También Abrimos tu Hogar</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Tus <Link href="/" style={{ color: '#FFD700' }}>cerrajeros en Tetuán</Link> no solo abren coches. Si te has quedado fuera de casa, nuestro servicio de <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700' }}>apertura de puertas en Tetuán</Link> usa <em>técnicas no destructivas idénticas</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Refuerza tu hogar con un <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700' }}>cambio de bombín antibumping</Link> de <strong>máxima seguridad</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Pide presupuesto sin compromiso</Link>.
+                    </p>
                 </div>
             </section>
 

@@ -84,7 +84,7 @@ export default function PlazaCastilla() {
                             CERRAJERÍA <span style={{ color: '#FFD700', fontFamily: 'var(--font-montserrat)', fontStyle: 'italic', display: 'block', marginTop: '0.5rem' }}>Premium Security</span>
                         </h1>
                         <p style={{ fontSize: '1.25rem', color: '#d1d5db', marginBottom: '2.5rem', lineHeight: 1.6, maxWidth: '600px' }}>
-                            Elevando los estándares de seguridad para el hub judicial y corporativo del noreste de Madrid. Control de accesos y aperturas de alta gama.
+                            Elevando los estándares de <strong>seguridad</strong> para el <em>hub judicial y corporativo</em> del noreste de Madrid. <strong>Control de accesos</strong> y <em>aperturas de alta gama</em>.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
@@ -181,7 +181,7 @@ export default function PlazaCastilla() {
                         </div>
                         <h2 style={{ fontSize: '2rem', color: '#fff', marginBottom: '1.5rem' }}>¿Vives o trabajas cerca de los Juzgados?</h2>
                         <p style={{ color: '#d1d5db', fontSize: '1.1rem', lineHeight: 1.6, maxWidth: '800px' }}>
-                            La zona norte requiere protección adaptada debido al alto tránsito diario. Un bombillo pasivo antiguo de los años 90 no soporta más de 30 segundos frente a métodos actuales de robo silencioso.
+                            La <strong>zona norte</strong> requiere protección adaptada debido al alto tránsito diario. Un <em>bombillo pasivo antiguo</em> de los años 90 no soporta más de 30 segundos frente a <strong>métodos actuales de robo silencioso</strong>.
                         </p>
                         <div className="vuln-grid">
                             <div style={{ background: 'rgba(0,0,0,0.3)', padding: '1.5rem', borderRadius: '0.5rem', borderLeft: '3px solid #dc2626' }}>
@@ -280,6 +280,24 @@ export default function PlazaCastilla() {
                 <div className="container fade-in-up">
                     <h2 className="section-title" style={{ textAlign: 'center' }}>Dudas resueltas sobre Plaza de Castilla</h2>
                     <FAQAccordion faqs={faqs} />
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ padding: '4rem 0', background: '#030b14' }}>
+                <div className="container">
+                    <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Otros Servicios en Tetuán</h2>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
+                        Desde <strong>Plaza de Castilla</strong>, cubrimos todo el distrito con <em>cerrajeros profesionales</em>.
+                        Solicita un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de cerraduras</Link>,{' '}
+                        <Link href="/apertura-coches-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de coches</Link> o{' '}
+                        <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajero 24 horas en Tetuán</Link>.
+                        Disponemos de <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de bombines de alta seguridad</Link>.
+                    </p>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
+                        Vuelve a la <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>home de Cerrajeros Tetuán</Link> o consulta{' '}
+                        <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>preguntas frecuentes</Link>.
+                    </p>
                 </div>
             </section>
         </main>

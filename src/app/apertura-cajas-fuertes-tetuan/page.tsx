@@ -122,10 +122,10 @@ export default function AperturaCajasFuertes() {
                     <div className="about-content">
                         <h2 className="section-title">Discreción y Precisión Técnica</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿Se ha encontrado con que la combinación de su caja de seguridad no responde tras un largo periodo sin usarla en su oficina de la Calle de Orense? La apertura de cajas fuertes en Tetuán exige cirugía técnica y confidencialidad absoluta.
+                            ¿Se ha encontrado con que la combinación de su caja de seguridad no responde tras un largo periodo sin usarla en su oficina de la Calle de Orense? La <strong>apertura de cajas fuertes en Tetuán</strong> exige <em>cirugía técnica y confidencialidad absoluta</em>.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Como expertos operativos desde Cuatro Caminos hasta la Plaza de Castilla, entendemos que lo que hay dentro es su legado. En 2026, utilizamos tecnología no invasiva (endoscopios, decodificadores) para abrir sin destruir el contenido.
+                            Como <strong>expertos operativos</strong> desde Cuatro Caminos hasta la Plaza de Castilla, entendemos que lo que hay dentro es su legado. En 2026, utilizamos <em>tecnología no invasiva</em> (endoscopios, decodificadores) para abrir sin destruir el contenido.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -193,12 +193,25 @@ export default function AperturaCajasFuertes() {
                         <h2 className="section-title">El Secreto Profesional como Norma</h2>
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>Asesinato de códigos y memorias físicas</h3>
                         <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Cuando intervenimos en cajas fuertes particulares en Castillejos, llegamos en vehículos sin rotular si el entorno hiper-residencial lo exige.</p>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Tras la apertura, no solo cambiamos la combinación; realizamos un "borrado forense" de los registros de la caja fuerte para que no quede constancia de nuestra intervención, dejándote como el único poseedor de los datos de acceso.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Tras la apertura, no solo cambiamos la combinación; realizamos un <em>"borrado forense"</em> de los registros de la caja fuerte para que no quede constancia de nuestra intervención, dejándote como el <strong>único poseedor de los datos de acceso</strong>.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Consulta Confidencial 24h</a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Seguridad Integral en Tetuán</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Tus <Link href="/" style={{ color: '#FFD700' }}>cerrajeros en Tetuán</Link> ofrecen apertura de cajas fuertes y mucho más. Protege tus puertas con un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700' }}>cambio de cerraduras en Tetuán</Link> de <em>máxima seguridad</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Disponibles <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700' }}>24 horas en Tetuán</Link> para <strong>emergencias en empresas y domicilios</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Contacta con discreción total</Link>.
+                    </p>
                 </div>
             </section>
 

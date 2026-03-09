@@ -106,7 +106,7 @@ export default function PreguntasFrecuentes() {
                         Preguntas <span style={{ color: '#FFD700' }}>Frecuentes</span> sobre Cerrajería
                     </h1>
                     <p style={{ fontSize: '1.25rem', color: '#a8b2d1', marginBottom: '2.5rem', lineHeight: 1.6 }}>
-                        ¿Tienes dudas sobre tiempos de respuesta, tarifas o seguridad en Tetuán? Aquí respondemos a las consultas más habituales de nuestros vecinos con total transparencia.
+                        ¿Tienes dudas sobre <strong>tiempos de respuesta</strong>, tarifas o <em>seguridad en Tetuán</em>? Aquí respondemos a las consultas más habituales de nuestros vecinos con total transparencia.
                     </p>
                     <div style={{ display: 'flex', gap: '1.5rem', justifyContent: 'center', flexWrap: 'wrap' }}>
                         <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', fontSize: '1.1rem', padding: '1rem 2rem' }}>
@@ -126,7 +126,7 @@ export default function PreguntasFrecuentes() {
 
                     <div style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto 4rem', animation: 'fadeInUp 0.8s ease backwards', animationDelay: '0.2s' }}>
                         <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1.5rem' }}>Tus Duda, Nuestra Experiencia en <span style={{ color: '#FFD700' }}>Tetuán</span></h2>
-                        <p style={{ fontSize: '1.1rem', lineHeight: 1.7, color: '#a8b2d1' }}>El mundo de la cerrajería ha evolucionado drásticamente. Desde el bumping clásico en Berruguete hasta los sistemas domóticos en AZCA, abordamos cada situación con la cercanía de un vecino y el rigor técnico de expertos en seguridad en 2026.</p>
+                        <p style={{ fontSize: '1.1rem', lineHeight: 1.7, color: '#a8b2d1' }}>El mundo de la <strong>cerrajería</strong> ha evolucionado drásticamente. Desde el <em>bumping clásico</em> en Berruguete hasta los sistemas domóticos en AZCA, abordamos cada situación con la cercanía de un vecino y el rigor técnico de <strong>expertos en seguridad</strong> en 2026.</p>
                     </div>
 
                     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '2rem', marginBottom: '4rem' }}>
@@ -171,7 +171,7 @@ export default function PreguntasFrecuentes() {
                         </div>
                         <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
                             <h2 style={{ fontSize: '2.2rem', color: '#fff', lineHeight: 1.2 }}>Seguridad Física Avanzada contra el <span style={{ color: '#FFD700' }}>Bumping</span></h2>
-                            <p style={{ color: '#a8b2d1', fontSize: '1.1rem', lineHeight: 1.6 }}>Las antiguas cerraduras de borjas, muy comunes en Bellas Vistas, son hoy extremadamente vulnerables a la técnica "magic key". El bumping sigue siendo la amenaza principal en Infanta Mercedes.</p>
+                            <p style={{ color: '#a8b2d1', fontSize: '1.1rem', lineHeight: 1.6 }}>Las antiguas <strong>cerraduras de borjas</strong>, muy comunes en Bellas Vistas, son hoy extremadamente vulnerables a la técnica <em>"magic key"</em>. El bumping sigue siendo la amenaza principal en Infanta Mercedes.</p>
 
                             <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                                 <li style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start' }}>
@@ -220,6 +220,22 @@ export default function PreguntasFrecuentes() {
                             <p style={{ color: '#a8b2d1', lineHeight: 1.6, margin: 0 }}>No fuerce el mecanismo. Realizamos mantenimiento preventivo con spray de grafito para evitar bloqueos nocturnos o roturas de llave dentro del bombín.</p>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO SECTION */}
+            <section style={{ padding: '5rem 0', background: '#0a192f' }}>
+                <div className="container fade-in-up" style={{ maxWidth: '900px' }}>
+                    <h2 style={{ fontSize: '2rem', color: '#fff', marginBottom: '1.5rem', textAlign: 'center' }}>Más Información sobre <span style={{ color: '#FFD700' }}>Nuestros Servicios</span></h2>
+                    <p style={{ color: '#a8b2d1', lineHeight: 1.8, fontSize: '1.05rem', marginBottom: '1.5rem' }}>
+                        Si tras consultar estas preguntas frecuentes necesita una intervención inmediata, nuestro equipo de <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajeros urgentes en Tetuán</Link> responde las 24 horas, los 365 días del año. Disponemos de un <strong>servicio de cerrajería ininterrumpido</strong> que cubre desde la <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de puertas</Link> hasta el <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio completo de cerraduras</Link> en cualquier barrio del distrito.
+                    </p>
+                    <p style={{ color: '#a8b2d1', lineHeight: 1.8, fontSize: '1.05rem', marginBottom: '1.5rem' }}>
+                        Para quienes buscan mejorar la <em>seguridad preventiva de su hogar</em>, realizamos la <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>instalación de cerraduras de última generación</Link> y el <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de bombines</Link> con <strong>cilindros antibumping certificados</strong>. Consulte nuestra página de <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerraduras antibumping</Link> para conocer las opciones más avanzadas del mercado.
+                    </p>
+                    <p style={{ color: '#a8b2d1', lineHeight: 1.8, fontSize: '1.05rem' }}>
+                        Cubrimos <em>todos los barrios del distrito</em>: desde <Link href="/cerrajeros-cuzco-azca" style={{ color: '#FFD700', textDecoration: 'underline' }}>Cuzco y AZCA</Link> hasta <Link href="/cerrajeros-valdeacederas-berruguete" style={{ color: '#FFD700', textDecoration: 'underline' }}>Valdeacederas y Berruguete</Link>, pasando por <Link href="/cerrajeros-plaza-castilla" style={{ color: '#FFD700', textDecoration: 'underline' }}>Plaza de Castilla</Link> y <Link href="/cerrajeros-almenara-ventilla" style={{ color: '#FFD700', textDecoration: 'underline' }}>Almenara y Ventilla</Link>. Vea todas las <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas de cobertura en Tetuán</Link> y compruebe que siempre hay un cerrajero cerca de usted.
+                    </p>
                 </div>
             </section>
 

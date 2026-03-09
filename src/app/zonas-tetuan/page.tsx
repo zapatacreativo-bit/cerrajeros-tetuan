@@ -113,7 +113,7 @@ export default function ZonasTetuan() {
                         Disponibilidad inmediata en todo Tetuán
                     </div>
                     <h1>Zonas de Cobertura en Tetuán</h1>
-                    <p className="hero-subtitle">Protegiendo todos los barrios del distrito con cerrajeros vecinos, expertos y ultra-rápidos. Llegamos a Cuzco, Ventilla, Bellas Vistas, AZCA y Cuatro Caminos en menos de 20 minutos.</p>
+                    <p className="hero-subtitle">Protegiendo todos los barrios del distrito con <strong>cerrajeros vecinos</strong>, expertos y ultra-rápidos. Llegamos a Cuzco, Ventilla, Bellas Vistas, AZCA y Cuatro Caminos en <em>menos de 20 minutos</em>.</p>
                 </div>
             </section>
 
@@ -129,10 +129,10 @@ export default function ZonasTetuan() {
                     <div className="about-content">
                         <h2 className="section-title">Cerrajeros en Tetuán: Tu seguridad en manos de vecinos expertos</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿Se ha quedado fuera de su casa después de una tarde de compras en el Mercado de Maravillas o tras un paseo por la Plaza de Castilla? Perder las llaves o sufrir un bloqueo en la cerradura es una de las situaciones más estresantes que podemos vivir en Madrid.
+                            ¿Se ha quedado fuera de su casa después de una tarde de compras en el Mercado de Maravillas o tras un paseo por la Plaza de Castilla? <strong>Perder las llaves</strong> o sufrir un bloqueo en la cerradura es una de las situaciones más estresantes que podemos vivir en Madrid.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Como cerrajeros en Tetuán, entendemos que usted no busca solo un técnico, sino una solución rápida, honesta y cercana. Nuestro distrito es una mezcla vibrante de modernidad y tradición. Desde la Calle de Bravo Murillo hasta los rincones más tranquilos de Berruguete, estamos listos para atenderle con la rapidez que solo alguien que vive y trabaja en su mismo código postal puede ofrecer.
+                            Como <strong>cerrajeros en Tetuán</strong>, entendemos que usted no busca solo un técnico, sino una <em>solución rápida, honesta y cercana</em>. Nuestro distrito es una mezcla vibrante de modernidad y tradición. Desde la Calle de Bravo Murillo hasta los rincones más tranquilos de Berruguete, estamos listos para atenderle con la rapidez que solo alguien que vive y trabaja en su mismo código postal puede ofrecer.
                         </p>
                         <ul style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -274,13 +274,29 @@ export default function ZonasTetuan() {
                     </div>
                     <div>
                         <h2 className="section-title">Por qué elegir a los expertos de Tetuán</h2>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem' }}>Elegir a los correctos cerrajeros en Tetuán es elegir tranquilidad. Conocemos calles como Tenerife, Topete o Almansa al dedillo. No dejes tus bienes al cuidado de plataformas impersonales.</p>
-                        <p className="section-desc" style={{ marginBottom: '2rem' }}>Tetuán se moderniza hacia 2026, pasando desde los desarrollos del Paseo de la Dirección hasta la torre de oficinas en AZCA. Nuestra seguridad física evoluciona contigo gracias a inversión constante y herramientas punteras.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem' }}>Elegir a los correctos <strong>cerrajeros en Tetuán</strong> es elegir tranquilidad. Conocemos calles como Tenerife, Topete o Almansa al dedillo. No dejes tus bienes al cuidado de <em>plataformas impersonales</em>.</p>
+                        <p className="section-desc" style={{ marginBottom: '2rem' }}>Tetuán se moderniza hacia 2026, pasando desde los desarrollos del Paseo de la Dirección hasta la torre de oficinas en AZCA. Nuestra <strong>seguridad física</strong> evoluciona contigo gracias a inversión constante y herramientas punteras.</p>
                         <div style={{ display: 'flex', gap: '1rem' }}>
                             <Link href="/contacto-tetuan" className="btn-secondary" style={{ padding: '15px 30px' }}>Solicitar Visita</Link>
                             <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>LLamar Urgencia</a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO SECTION */}
+            <section style={{ padding: '5rem 0', background: '#050c17' }}>
+                <div className="container fade-in-up" style={{ maxWidth: '900px' }}>
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Servicios de Cerrajería en <span style={{ color: '#FFD700' }}>Todo Tetuán</span></h2>
+                    <p style={{ color: '#a8b2d1', lineHeight: 1.8, fontSize: '1.05rem', marginBottom: '1.5rem' }}>
+                        Nuestras unidades cubren cada rincón del distrito. Si necesita una <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de puertas urgente</Link>, un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de cerradura</Link> o la <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>instalación de cerraduras de alta seguridad</Link>, nuestro equipo de <strong>cerrajeros profesionales</strong> estará en su puerta en menos de 20 minutos.
+                    </p>
+                    <p style={{ color: '#a8b2d1', lineHeight: 1.8, fontSize: '1.05rem', marginBottom: '1.5rem' }}>
+                        Ofrecemos también el <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de bombines</Link> con <strong>cilindros antibumping certificados</strong>, la <Link href="/reparacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>reparación de cerraduras dañadas</Link> y servicios específicos como <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerraduras antibumping</Link> y <Link href="/apertura-cajas-fuertes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de cajas fuertes</Link>. Cada servicio está pensado para la <em>realidad específica de los vecinos de Tetuán</em>.
+                    </p>
+                    <p style={{ color: '#a8b2d1', lineHeight: 1.8, fontSize: '1.05rem' }}>
+                        Contamos con <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajeros urgentes</Link> y un <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>servicio 24 horas</Link> activo los 365 días. Además, operamos en <Link href="/persianas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>reparación de persianas</Link> y <Link href="/apertura-coches-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de coches</Link>. Consulte nuestras <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>preguntas frecuentes</Link> para más detalles.
+                    </p>
                 </div>
             </section>
 

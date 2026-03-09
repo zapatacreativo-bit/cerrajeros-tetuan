@@ -122,10 +122,10 @@ export default function Persianas() {
                     <div className="about-content">
                         <h2 className="section-title">El Pulso del Negocio y del Descanso</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Cuando un cierre no sube en Bravo Murillo a las nueve de la mañana empieza a contar la pérdida comercial. La reparación urgente de motores de persiana exige respuesta de choque de persianistas que vivan tu urgencia.
+                            Cuando un cierre no sube en Bravo Murillo a las nueve de la mañana empieza a contar la pérdida comercial. La <strong>reparación urgente de persianas en Tetuán</strong> exige respuesta de choque de <em>persianistas que vivan tu urgencia</em>.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Para el ámbito residencial, en barrios con mucha historia acústica como la Avenida de Asturias, la única solución para poder dormir es el cambio de viejas lamas de PVC por aluminio térmico inyectado de poliuretano y la integración de domótica invisible.
+                            Para el ámbito residencial, en barrios con mucha historia acústica como la Avenida de Asturias, la única solución es el cambio de viejas lamas de PVC por <strong>aluminio térmico inyectado de poliuretano</strong> y la integración de <em>domótica invisible</em>.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -194,12 +194,25 @@ export default function Persianas() {
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>Hasta que se caen en mitad de la noche</h3>
                         <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>El sonido terrible que hace tu persiana al bajar significa que se están rajando las guías. Hacer un mantenimiento preventivo a tiempo de ejes, poleas de rodamiento y engrasado cuesta muy poco tiempo y evita tener que cambiar o sustituir todo el paño entero.</p>
 
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Además para nuestros vecinos más vulnerables de la Ventilla que no cuentan con la fuerza para subir las lamas pesadas, instalar un pequeño motor es la inyección de calidad vital y autonomía más directa que hay en cerrajería.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Además para nuestros vecinos más vulnerables de la Ventilla que no cuentan con la fuerza para subir las lamas pesadas, instalar un pequeño motor es la inyección de <em>calidad vital y autonomía</em> más directa que hay. Nuestros <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700' }}>cerrajeros urgentes en Tetuán</Link> también <strong>reparan persianas bloqueadas</strong> el mismo día.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Persianista Oficial</a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Cerrajería Completa en Tetuán</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Tus <Link href="/" style={{ color: '#FFD700' }}>cerrajeros en Tetuán</Link> también son persianistas. Aprovecha para una <Link href="/reparacion-cerraduras-tetuan" style={{ color: '#FFD700' }}>reparación de cerraduras en Tetuán</Link> mientras arreglamos tu persiana, con <em>descuento de pack</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Refuerza la seguridad del cierre con <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700' }}>cerraduras antibumping</Link> de <strong>alta resistencia certificada</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Solicita presupuesto de persianas</Link>.
+                    </p>
                 </div>
             </section>
 

@@ -84,7 +84,7 @@ export default function BravoMurilloEstrecho() {
                             CERRAJERÍA <span style={{ color: '#FFD700', fontFamily: 'var(--font-montserrat)', fontStyle: 'italic', display: 'block', marginTop: '0.5rem' }}>Premium Security</span>
                         </h1>
                         <p style={{ fontSize: '1.25rem', color: '#d1d5db', marginBottom: '2.5rem', lineHeight: 1.6, maxWidth: '600px' }}>
-                            Tu cerrajero de proximidad en la gran arteria comercial de Tetuán. Experiencia avalada, llegamos en menos de 20 minutos.
+                            Tu <strong>cerrajero de proximidad</strong> en la <em>gran arteria comercial de Tetuán</em>. Experiencia avalada, llegamos en <strong>menos de 20 minutos</strong>.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
@@ -181,7 +181,7 @@ export default function BravoMurilloEstrecho() {
                         </div>
                         <h2 style={{ fontSize: '2rem', color: '#fff', marginBottom: '1.5rem' }}>¿Tienes un negocio en Bravo Murillo?</h2>
                         <p style={{ color: '#d1d5db', fontSize: '1.1rem', lineHeight: 1.6, maxWidth: '800px' }}>
-                            La calle principal de Tetuán vertebra y da vida al distrito. Atravesando puntos emblemáticos como la parada de Metro de Estrecho, la constante actividad comercial exige protección.
+                            La calle principal de <strong>Tetuán</strong> vertebra y da vida al distrito. Atravesando puntos emblemáticos como la parada de <em>Metro de Estrecho</em>, la constante <strong>actividad comercial</strong> exige protección.
                         </p>
                         <div className="vuln-grid">
                             <div style={{ background: 'rgba(0,0,0,0.3)', padding: '1.5rem', borderRadius: '0.5rem', borderLeft: '3px solid #dc2626' }}>
@@ -280,6 +280,24 @@ export default function BravoMurilloEstrecho() {
                 <div className="container fade-in-up">
                     <h2 className="section-title" style={{ textAlign: 'center' }}>Dudas resueltas Área Bravo Murillo</h2>
                     <FAQAccordion faqs={faqs} />
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ padding: '4rem 0', background: '#030b14' }}>
+                <div className="container">
+                    <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Servicios de Cerrajería en el Distrito de Tetuán</h2>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
+                        Desde <strong>Bravo Murillo y Estrecho</strong>, ofrecemos cobertura total. ¿Necesitas un{' '}
+                        <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajero 24 horas en Tetuán</Link>? También realizamos{' '}
+                        <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de bombines</Link>,{' '}
+                        <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>instalación de cerraduras</Link> y{' '}
+                        <Link href="/apertura-coches-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de coches en Tetuán</Link>.
+                    </p>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
+                        Vuelve a la <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>home de Cerrajeros Tetuán</Link> o contacta con nosotros en{' '}
+                        <Link href="/contacto-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>contacto</Link>.
+                    </p>
                 </div>
             </section>
         </main>

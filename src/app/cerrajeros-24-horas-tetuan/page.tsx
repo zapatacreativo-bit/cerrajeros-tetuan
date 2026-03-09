@@ -122,10 +122,10 @@ export default function Cerrajeros24Horas() {
                     <div className="about-content">
                         <h2 className="section-title">El Estrés de quedarse fuera</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Volver de una cena en la Avenida de Brasil y que la llave se parta al girar el bombín; perder el bolso cerca de Cuzco y no poder entrar en casa de madrugada. Reaccionar rápido es imperativo.
+                            Volver de una cena en la Avenida de Brasil y que la llave se parta al girar el bombín; perder el bolso cerca de Cuzco y no poder entrar en casa de madrugada. Nuestros <strong>cerrajeros 24 horas en Tetuán</strong> entienden que <em>reaccionar rápido es imperativo</em>.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Nuestra política 24H es real, no un eslogan. Mantenemos furgonetas perimetrando la Plaza de Castilla y Cuatro Caminos con stock de bombines precintados. Intervenimos abriendo bajo técnicas no destructivas y re-habilitamos el sistema al momento.
+                            Nuestra política 24H es real, no un eslogan. Mantenemos <strong>furgonetas perimetrando la Plaza de Castilla y Cuatro Caminos</strong> con stock de bombines precintados. Intervenimos abriendo bajo <em>técnicas no destructivas</em> y re-habilitamos el sistema al momento.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -185,7 +185,7 @@ export default function Cerrajeros24Horas() {
                     <div>
                         <h2 className="section-title">La Promesa del Barrio</h2>
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>No te fíes de números opacos</h3>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Muchos portales ocultan 'abre-puertas' que viajan desde la otra punta de Madrid y destrozan el marco por falta de herramental. Nosotros operamos en Lope de Haro y Sor Ángela de la Cruz como expertos residentes; conocemos las puertas blindadas castizas de la zona.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Muchos portales ocultan <em>'abre-puertas'</em> que viajan desde la otra punta de Madrid y destrozan el marco por falta de herramental. Nosotros operamos en Lope de Haro y Sor Ángela de la Cruz como <strong>expertos residentes</strong>; conocemos las puertas blindadas castizas de la zona. Si necesitas una <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700' }}>apertura de puertas en Tetuán</Link>, te garantizamos <em>cero daños</em>.</p>
 
                         <div style={{ padding: '2rem', background: 'rgba(26, 42, 60, 0.4)', borderRadius: '1rem', border: '1px solid #1e3a5f', marginBottom: '2rem' }}>
                             <h4 style={{ color: '#fff', fontSize: '1.2rem', margin: '0 0 0.5rem 0' }}>Cuidado de los Mayores en Ventilla</h4>
@@ -196,6 +196,19 @@ export default function Cerrajeros24Horas() {
                             <a href="tel:644936742" className="btn-secondary" style={{ padding: '15px 30px' }}>Contacto Inmediato 24/7</a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Todos Nuestros Servicios Disponibles 24h</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Como <Link href="/" style={{ color: '#FFD700' }}>cerrajeros en Tetuán</Link> con servicio ininterrumpido, atendemos cualquier incidencia. Desde <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700' }}>aperturas de puertas en Tetuán</Link> hasta <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700' }}>cambio de bombines antibumping</Link>, todo disponible <em>de día y de noche</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Para emergencias críticas, nuestro equipo de <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700' }}>cerrajeros urgentes en Tetuán</Link> prioriza <strong>robos e intentos de intrusión</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Llámanos ahora sin compromiso</Link>.
+                    </p>
                 </div>
             </section>
 

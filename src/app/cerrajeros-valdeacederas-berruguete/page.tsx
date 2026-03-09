@@ -84,7 +84,7 @@ export default function ValdeacederasBerruguete() {
                             CERRAJERÍA <span style={{ color: '#FFD700', fontFamily: 'var(--font-montserrat)', fontStyle: 'italic', display: 'block', marginTop: '0.5rem' }}>Defensa Integral</span>
                         </h1>
                         <p style={{ fontSize: '1.25rem', color: '#d1d5db', marginBottom: '2.5rem', lineHeight: 1.6, maxWidth: '600px' }}>
-                            Convertimos tu piso en una fortaleza. Especialistas en estudios de vulnerabilidad gratuitos contra métodos de asalto e instalación de alta seguridad antibumping para todas las familias del barrio.
+                            Convertimos tu piso en una fortaleza. Especialistas en <strong>estudios de vulnerabilidad gratuitos</strong> contra métodos de asalto e <em>instalación de alta seguridad antibumping</em> para todas las familias del barrio.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
@@ -181,7 +181,7 @@ export default function ValdeacederasBerruguete() {
                         </div>
                         <h2 style={{ fontSize: '2rem', color: '#fff', marginBottom: '1.5rem' }}>El 80% de las cerraduras históricas son vulnerables</h2>
                         <p style={{ color: '#d1d5db', fontSize: '1.1rem', lineHeight: 1.6, maxWidth: '800px' }}>
-                            Valdeacederas y Berruguete son refugio de familias. Sin embargo, el parque de viviendas cuenta con un problema silencioso: instalaciones de más de 10 años.
+                            <strong>Valdeacederas y Berruguete</strong> son refugio de familias. Sin embargo, el parque de viviendas cuenta con un <em>problema silencioso</em>: instalaciones de más de 10 años.
                         </p>
                         <div className="vuln-grid">
                             <div style={{ background: 'rgba(0,0,0,0.3)', padding: '1.5rem', borderRadius: '0.5rem', borderLeft: '3px solid #dc2626' }}>
@@ -280,6 +280,24 @@ export default function ValdeacederasBerruguete() {
                 <div className="container fade-in-up">
                     <h2 className="section-title" style={{ textAlign: 'center' }}>Dudas resueltas Valdeacederas</h2>
                     <FAQAccordion faqs={faqs} />
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ padding: '4rem 0', background: '#030b14' }}>
+                <div className="container">
+                    <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Protege tu Hogar en Tetuán</h2>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
+                        En <strong>Valdeacederas y Berruguete</strong>, la <em>seguridad antibumping</em> es nuestra prioridad.
+                        Consulta nuestras <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerraduras antibumping</Link>,{' '}
+                        <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>instalación de cerraduras</Link> y{' '}
+                        <Link href="/reparacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>reparación de cerraduras en Tetuán</Link>.
+                    </p>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
+                        Visita la <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>página principal de Cerrajeros Tetuán</Link> o{' '}
+                        solicita un <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajero urgente</Link>.
+                        Explora nuestras <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas de cobertura</Link>.
+                    </p>
                 </div>
             </section>
         </main>

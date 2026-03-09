@@ -122,10 +122,10 @@ export default function CerradurasAntibumping() {
                     <div className="about-content">
                         <h2 className="section-title">El Bumping: 30 segundos sin ruido</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿Sabías que un bombín de serreta estándar puede ser abierto con una llave maestra magnética o de golpe en menos de 30 segundos en la Calle de Bravo Murillo sin despertar al vecino?
+                            ¿Sabías que un bombín de serreta estándar puede ser abierto con una <em>llave maestra magnética o de golpe</em> en menos de 30 segundos en la Calle de Bravo Murillo sin despertar al vecino? Nuestras <strong>cerraduras antibumping en Tetuán</strong> neutralizan este riesgo.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            La técnica del bumping aprovecha la inercia para alinear los pines saltando el mecanismo interior. Nosotros instalamos cilindros Kaba, Mauer y Tesa que reaccionan bloqueándose ante estas vibraciones, anulando por completo el ataque.
+                            La técnica del <em>bumping</em> aprovecha la inercia para alinear los pines saltando el mecanismo interior. Nosotros instalamos <strong>cilindros Kaba, Mauer y Tesa</strong> que reaccionan bloqueándose ante estas vibraciones, anulando por completo el ataque.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -192,14 +192,27 @@ export default function CerradurasAntibumping() {
                     <div>
                         <h2 className="section-title">Actualización Táctica en Tetuán</h2>
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>La inversión se amortiza con 1 susto </h3>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Muchos seguros en Castillejos no cubren robos sin rotura física del anclaje (bumping limpio). Al invertir una vez en un Mauer NW5, garantizas cobertura del perito además de la tranquilidad familiar.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Muchos seguros en Castillejos no cubren robos sin rotura física del anclaje (<em>bumping limpio</em>). Al invertir una vez en un <strong>Mauer NW5</strong>, garantizas cobertura del perito además de la tranquilidad familiar. Complementa con un <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700' }}>cambio de bombín antibumping</Link> de última generación.</p>
 
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Desde la Plaza de la Remonta hasta Cuzco, operamos en unidades tácticas llevando el catálogo en la furgoneta. En menos de 40 minutos actualizamos tu blindaje, enroscamos escudos de lenteja giratoria, y desaparecemos.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Desde la Plaza de la Remonta hasta Cuzco, operamos en <strong>unidades tácticas</strong> llevando el catálogo en la furgoneta. En menos de 40 minutos actualizamos tu blindaje, enroscamos <em>escudos de lenteja giratoria</em>, y desaparecemos.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Asesor de Seguridad</a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Protección Integral en Tetuán</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Como <Link href="/" style={{ color: '#FFD700' }}>cerrajeros en Tetuán</Link> especializados en seguridad, combinamos las cerraduras antibumping con un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700' }}>cambio de cerraduras completo</Link> para una <em>protección multicapa</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Si te has quedado fuera, nuestro servicio de <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700' }}>apertura de puertas en Tetuán</Link> usa <strong>técnicas no destructivas</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Solicita diagnóstico antibumping gratuito</Link>.
+                    </p>
                 </div>
             </section>
 

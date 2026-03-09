@@ -84,7 +84,7 @@ export default function BellasVistas() {
                             CERRAJERÍA <span style={{ color: '#FFD700', fontFamily: 'var(--font-montserrat)', fontStyle: 'italic', display: 'block', marginTop: '0.5rem' }}>Artesanal y Precisa</span>
                         </h1>
                         <p style={{ fontSize: '1.25rem', color: '#d1d5db', marginBottom: '2.5rem', lineHeight: 1.6, maxWidth: '600px' }}>
-                            Mantenemos vivo el encanto del Madrid clásico sin descuidar tu seguridad moderna. Especialistas en extraer llaves partidas de cerraduras de borjas y preservar pesadas puertas de madera.
+                            Mantenemos vivo el encanto del <em>Madrid clásico</em> sin descuidar tu <strong>seguridad moderna</strong>. Especialistas en extraer <strong>llaves partidas</strong> de cerraduras de borjas y preservar pesadas <em>puertas de madera</em>.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
                             <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
@@ -181,7 +181,7 @@ export default function BellasVistas() {
                         </div>
                         <h2 style={{ fontSize: '2rem', color: '#fff', marginBottom: '1.5rem' }}>¿Resides en un edificio de patrimonio clásico?</h2>
                         <p style={{ color: '#d1d5db', fontSize: '1.1rem', lineHeight: 1.6, maxWidth: '800px' }}>
-                            Bellas Vistas alberga joyas arquitectónicas con puertas macizas de caoba. Estas cerraduras centenarias o de doble paletón necesitan tacto extremo; una intervención inexperta destrozará la madera para siempre.
+                            <strong>Bellas Vistas</strong> alberga joyas arquitectónicas con <em>puertas macizas de caoba</em>. Estas <strong>cerraduras centenarias</strong> o de doble paletón necesitan tacto extremo; una intervención inexperta destrozará la madera para siempre.
                         </p>
                         <div className="vuln-grid">
                             <div style={{ background: 'rgba(0,0,0,0.3)', padding: '1.5rem', borderRadius: '0.5rem', borderLeft: '3px solid #dc2626' }}>
@@ -280,6 +280,25 @@ export default function BellasVistas() {
                 <div className="container fade-in-up">
                     <h2 className="section-title" style={{ textAlign: 'center' }}>Dudas resueltas Bellas Vistas</h2>
                     <FAQAccordion faqs={faqs} />
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ padding: '4rem 0', background: '#030b14' }}>
+                <div className="container">
+                    <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Más Servicios de Cerrajería en Tetuán</h2>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
+                        En <strong>Bellas Vistas y Francos Rodríguez</strong>, somos expertos en <em>cerrajería artesanal</em> y seguridad moderna.
+                        Descubre nuestro servicio de <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de cerraduras en Tetuán</Link> o solicita una{' '}
+                        <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de puertas urgente</Link>.
+                        Ofrecemos también <Link href="/reparacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>reparación de cerraduras</Link> y{' '}
+                        <Link href="/persianas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>reparación de persianas en Tetuán</Link>.
+                    </p>
+                    <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
+                        Vuelve a nuestra <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>página principal de Cerrajeros Tetuán</Link> o explora todas las{' '}
+                        <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas de cobertura</Link>.
+                        Resuelve tus dudas en <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>preguntas frecuentes</Link>.
+                    </p>
                 </div>
             </section>
         </main>

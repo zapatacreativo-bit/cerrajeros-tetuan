@@ -122,10 +122,10 @@ export default function InstalacionCerraduras() {
                     <div className="about-content">
                         <h2 className="section-title">El Búnker Empieza en la Puerta</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿Se ha parado a pensar si la puerta de su casa en Bellas Vistas es realmente invulnerable? Los métodos de intrusión en Madrid han evolucionado drásticamente. Las antiguas cerraduras de gorjas hoy son un juego de niños para las bandas de robo.
+                            ¿Se ha parado a pensar si la puerta de su casa en Bellas Vistas es realmente invulnerable? Los métodos de intrusión en Madrid han evolucionado drásticamente. La <strong>instalación de cerraduras en Tetuán</strong> de alta seguridad es la mejor inversión.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Como instaladores oficiales en Tetuán, reemplazamos sistemas vulnerables con ingeniería de primer nivel. Nuestro enfoque fusiona la resistencia bruta del acero cementado con la protección patente anti-copia de 2026.
+                            Como <em>instaladores oficiales</em> en Tetuán, reemplazamos sistemas vulnerables con <strong>ingeniería de primer nivel</strong>. Nuestro enfoque fusiona la resistencia bruta del acero cementado con la protección patente anti-copia de 2026.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -185,7 +185,7 @@ export default function InstalacionCerraduras() {
                     <div>
                         <h2 className="section-title">El Triángulo del Blindaje</h2>
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>Evita apalancamiento, extracción y taladro</h3>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Para proteger los trasteros en Calles como Sor Ángela de la Cruz instalamos cerrojos extras FAC de alta seguridad, anclajes invisibles que multiplican la dificultad de cizallamiento e intimidan ocularmente al asaltante.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Para proteger los trasteros en Calles como Sor Ángela de la Cruz instalamos <strong>cerrojos extras FAC de alta seguridad</strong>, anclajes invisibles que multiplican la dificultad de cizallamiento. Refuerza tu sistema con unas <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700' }}>cerraduras antibumping en Tetuán</Link> de <em>última generación certificada</em>.</p>
 
                         <div style={{ padding: '2rem', background: 'rgba(26, 42, 60, 0.4)', borderRadius: '1rem', border: '1px solid #1e3a5f', marginBottom: '2rem' }}>
                             <h4 style={{ color: '#fff', fontSize: '1.2rem', margin: '0 0 0.5rem 0' }}>Auditoría de Vulnerabilidad</h4>
@@ -196,6 +196,19 @@ export default function InstalacionCerraduras() {
                             <Link href="/contacto-tetuan" className="btn-secondary" style={{ padding: '15px 30px' }}>Solicitar Auditoría Gratuita</Link>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Servicios de Cerrajería Relacionados</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Tus <Link href="/" style={{ color: '#FFD700' }}>cerrajeros en Tetuán</Link> ofrecen instalación completa. Combina tu nueva cerradura con un <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700' }}>bombín antibumping en Tetuán</Link> para <em>máxima resistencia contra intrusiones</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Si necesitas asistencia inmediata, nuestros <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700' }}>cerrajeros urgentes en Tetuán</Link> llegan en <strong>menos de 20 minutos</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Pide presupuesto gratuito</Link>.
+                    </p>
                 </div>
             </section>
 

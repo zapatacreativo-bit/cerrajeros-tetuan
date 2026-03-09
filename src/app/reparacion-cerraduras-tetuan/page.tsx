@@ -122,10 +122,10 @@ export default function ReparacionCerraduras() {
                     <div className="about-content">
                         <h2 className="section-title">Diagnosticamos antes de cambiar</h2>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            ¿La llave gira en vacío cerca del Mercado de Maravillas? No hay nada que genere más estrés que un fallo mecánico en la puerta. Como profesionales locales de Tetuán, sabemos que muchas averías se solucionan ajustando la leva o limpiando el cilindro.
+                            ¿La llave gira en vacío cerca del Mercado de Maravillas? No hay nada que genere más estrés que un fallo mecánico en la puerta. Nuestro servicio de <strong>reparación de cerraduras en Tetuán</strong> soluciona averías <em>ajustando la leva o limpiando el cilindro</em>.
                         </p>
                         <p className="section-desc" style={{ marginBottom: '1.5rem' }}>
-                            Si algo es reparable, lo reparamos. Nuestro compromiso es la transparencia radical frente a la sustitución compulsiva. Extraemos trozos bloqueados en buzones, y restauramos borjas oxidadas en las puertas clásicas de Bellas Vistas.
+                            Si algo es reparable, lo reparamos. Nuestro compromiso es la <strong>transparencia radical</strong> frente a la sustitución compulsiva. Extraemos trozos bloqueados en buzones, y restauramos <em>borjas oxidadas</em> en las puertas clásicas de Bellas Vistas.
                         </p>
                         <ul className="premium-list" style={{ listStyle: 'none', padding: 0, margin: '2rem 0', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                             <li style={{ display: 'flex', alignItems: 'center', gap: '1rem', color: '#f8fafc' }}>
@@ -185,7 +185,7 @@ export default function ReparacionCerraduras() {
                     <div>
                         <h2 className="section-title">Evitando el Daño Crónico</h2>
                         <h3 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>Llaves forzadas y Portales Rotos</h3>
-                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Empujar fuerte la puerta mientras giras la llave en tu piso de Raimundo Fernández es señal de holgura. La fricción constante desgasta el latón de la llave original hasta que se rompe limpia en el hueco un viernes a las 3 am.</p>
+                        <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Empujar fuerte la puerta mientras giras la llave en tu piso de Raimundo Fernández es señal de <em>holgura</em>. La fricción constante desgasta el latón de la llave original hasta que se rompe limpia en el hueco un viernes a las 3 am. En ese momento, nuestros <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700' }}>cerrajeros 24 horas en Tetuán</Link> te rescatan <strong>sin daños a tu puerta</strong>.</p>
 
                         <div style={{ padding: '2rem', background: 'rgba(26, 42, 60, 0.4)', borderRadius: '1rem', border: '1px solid #1e3a5f', marginBottom: '2rem' }}>
                             <h4 style={{ color: '#fff', fontSize: '1.2rem', margin: '0 0 0.5rem 0' }}>Mantenimiento en Comunidades</h4>
@@ -196,6 +196,19 @@ export default function ReparacionCerraduras() {
                             <Link href="/contacto-tetuan" className="btn-secondary" style={{ padding: '15px 30px' }}>Agendar Mantenimiento</Link>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            {/* INTERLINKING SEO */}
+            <section style={{ background: '#030b14', padding: '4rem 0', borderTop: '1px solid #1e3a5f' }}>
+                <div className="container fade-in-up">
+                    <h2 className="section-title" style={{ textAlign: 'center' }}>Más Servicios de Cerrajería en Tetuán</h2>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto 1.5rem', textAlign: 'center' }}>
+                        Tus <Link href="/" style={{ color: '#FFD700' }}>cerrajeros de confianza en Tetuán</Link>. Si la reparación revela que tu cerradura está obsoleta, te recomendamos un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700' }}>cambio de cerraduras en Tetuán</Link> con <em>escudos acorazados de última generación</em>.
+                    </p>
+                    <p className="section-desc" style={{ maxWidth: '850px', margin: '0 auto', textAlign: 'center' }}>
+                        Protege tu hogar con <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700' }}>cerraduras antibumping en Tetuán</Link> de <strong>alta seguridad certificada</strong>. <Link href="/contacto-tetuan" style={{ color: '#FFD700' }}>Solicita diagnóstico gratuito</Link>.
+                    </p>
                 </div>
             </section>
 
