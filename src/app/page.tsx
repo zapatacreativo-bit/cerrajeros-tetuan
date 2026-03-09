@@ -5,25 +5,25 @@ import FAQAccordion from '../components/FAQAccordion';
 import './Home.css';
 
 export const metadata: Metadata = {
+  title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
+  description: 'Encuentra información útil y legal sobre nuestros servicios profesionales de cerrajería en Tetuán.',
+  keywords: 'cerrajería tetuán, seguridad madrid, cerrajero 24h',
+  alternates: {
+    canonical: 'https://www.cerrajerostetuan.com',
+  },
+  openGraph: {
     title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
-    description: 'Encuentra información útil y legal sobre nuestros servicios profesionales de cerrajería en Tetuán.',
-    keywords: 'cerrajería tetuán, seguridad madrid, cerrajero 24h',
-    alternates: {
-        canonical: 'https://www.cerrajerostetuan.com',
-    },
-    openGraph: {
-        title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
-        description: 'Información vital de seguridad para la zona de Tetuán (Madrid).',
-        url: 'https://www.cerrajerostetuan.com',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
-        type: 'website',
-    },
-    twitter: {
-        card: 'summary_large_image',
-        title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
-        description: 'Información vital de seguridad residencial.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
-    }
+    description: 'Información vital de seguridad para la zona de Tetuán (Madrid).',
+    url: 'https://www.cerrajerostetuan.com',
+    images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
+    description: 'Información vital de seguridad residencial.',
+    images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+  }
 };
 
 export default function Home() {
@@ -349,6 +349,12 @@ export default function Home() {
                     <option>La persiana/cierre no funciona</option>
                     <option>Otro motivo</option>
                   </select>
+                </div>
+                <div className="form-group-checkbox">
+                  <label className="checkbox-label">
+                    <input type="checkbox" required className="form-checkbox" />
+                    <span>Acepto la <Link href="/politica-de-privacidad" target="_blank" className="privacy-link">Política de Privacidad</Link></span>
+                  </label>
                 </div>
                 <button type="button" className="btn-primary w-full" style={{ height: '3.5rem', width: '100%', marginTop: '1rem' }}>
                   Solicitar Presupuesto Urgente
