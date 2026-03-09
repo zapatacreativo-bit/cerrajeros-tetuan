@@ -289,14 +289,14 @@ export default function ValdeacederasBerruguete() {
                     <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Protege tu Hogar en Tetuán</h2>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
                         En <strong>Valdeacederas y Berruguete</strong>, la <em>seguridad antibumping</em> es nuestra prioridad.
-                        Consulta nuestras <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerraduras antibumping</Link>,{' '}
-                        <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>instalación de cerraduras</Link> y{' '}
-                        <Link href="/reparacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>reparación de cerraduras en Tetuán</Link>.
+                        Consulta nuestras <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cerraduras antibumping</Link>,{' '}
+                        <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>instalación de cerraduras</Link> y{' '}
+                        <Link href="/reparacion-cerraduras-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>reparación de cerraduras en Tetuán</Link>.
                     </p>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
-                        Visita la <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>página principal de Cerrajeros Tetuán</Link> o{' '}
-                        solicita un <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajero urgente</Link>.
-                        Explora nuestras <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas de cobertura</Link>.
+                        Visita la <Link href="/" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>página principal de Cerrajeros Tetuán</Link> o{' '}
+                        solicita un <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cerrajero urgente</Link>.
+                        Explora nuestras <Link href="/zonas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>zonas de cobertura</Link>.
                     </p>
                 </div>
             </section>

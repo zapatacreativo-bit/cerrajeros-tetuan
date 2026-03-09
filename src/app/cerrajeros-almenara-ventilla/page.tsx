@@ -289,15 +289,15 @@ export default function AlmenaraVentilla() {
                     <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Servicios Relacionados en Tetuán</h2>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
                         Desde <strong>Almenara y La Ventilla</strong>, nuestros <em>cerrajeros en Tetuán</em> se desplazan rápidamente a cualquier punto del distrito.
-                        Si necesitas una <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de puertas en Tetuán</Link> o un{' '}
-                        <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de bombín</Link>, contáctanos.
-                        También ofrecemos <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerraduras antibumping</Link> y{' '}
-                        <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajeros urgentes en Tetuán</Link>.
+                        Si necesitas una <Link href="/apertura-puertas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>apertura de puertas en Tetuán</Link> o un{' '}
+                        <Link href="/cambio-bombines-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cambio de bombín</Link>, contáctanos.
+                        También ofrecemos <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cerraduras antibumping</Link> y{' '}
+                        <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cerrajeros urgentes en Tetuán</Link>.
                     </p>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
-                        Consulta nuestras <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas de cobertura en Tetuán</Link> o{' '}
-                        visita nuestra <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>página principal de Cerrajeros Tetuán</Link> para más información.
-                        ¿Tienes dudas? Revisa las <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>preguntas frecuentes</Link>.
+                        Consulta nuestras <Link href="/zonas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>zonas de cobertura en Tetuán</Link> o{' '}
+                        visita nuestra <Link href="/" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>página principal de Cerrajeros Tetuán</Link> para más información.
+                        ¿Tienes dudas? Revisa las <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>preguntas frecuentes</Link>.
                     </p>
                 </div>
             </section>

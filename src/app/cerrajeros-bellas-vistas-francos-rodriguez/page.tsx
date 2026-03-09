@@ -289,15 +289,15 @@ export default function BellasVistas() {
                     <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Más Servicios de Cerrajería en Tetuán</h2>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
                         En <strong>Bellas Vistas y Francos Rodríguez</strong>, somos expertos en <em>cerrajería artesanal</em> y seguridad moderna.
-                        Descubre nuestro servicio de <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de cerraduras en Tetuán</Link> o solicita una{' '}
-                        <Link href="/apertura-puertas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de puertas urgente</Link>.
-                        Ofrecemos también <Link href="/reparacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>reparación de cerraduras</Link> y{' '}
-                        <Link href="/persianas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>reparación de persianas en Tetuán</Link>.
+                        Descubre nuestro servicio de <Link href="/cambio-cerraduras-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cambio de cerraduras en Tetuán</Link> o solicita una{' '}
+                        <Link href="/apertura-puertas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>apertura de puertas urgente</Link>.
+                        Ofrecemos también <Link href="/reparacion-cerraduras-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>reparación de cerraduras</Link> y{' '}
+                        <Link href="/persianas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>reparación de persianas en Tetuán</Link>.
                     </p>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
-                        Vuelve a nuestra <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>página principal de Cerrajeros Tetuán</Link> o explora todas las{' '}
-                        <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas de cobertura</Link>.
-                        Resuelve tus dudas en <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>preguntas frecuentes</Link>.
+                        Vuelve a nuestra <Link href="/" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>página principal de Cerrajeros Tetuán</Link> o explora todas las{' '}
+                        <Link href="/zonas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>zonas de cobertura</Link>.
+                        Resuelve tus dudas en <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>preguntas frecuentes</Link>.
                     </p>
                 </div>
             </section>

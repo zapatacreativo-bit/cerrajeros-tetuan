@@ -289,14 +289,14 @@ export default function CuzcoAzca() {
                     <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Cerrajería Profesional en Tetuán</h2>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
                         En la zona de <strong>Cuzco y AZCA</strong>, somos referentes en <em>seguridad corporativa</em>.
-                        Conoce nuestro servicio de <Link href="/apertura-cajas-fuertes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de cajas fuertes</Link>,{' '}
-                        <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerraduras antibumping</Link> y{' '}
-                        <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajeros urgentes en Tetuán</Link>.
+                        Conoce nuestro servicio de <Link href="/apertura-cajas-fuertes-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>apertura de cajas fuertes</Link>,{' '}
+                        <Link href="/cerraduras-antibumping-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cerraduras antibumping</Link> y{' '}
+                        <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cerrajeros urgentes en Tetuán</Link>.
                     </p>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
-                        Regresa a la <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>página principal de Cerrajeros Tetuán</Link> o explora las{' '}
-                        <Link href="/zonas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>zonas que cubrimos en Tetuán</Link>.
-                        Contacta en <Link href="/contacto-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>nuestra página de contacto</Link>.
+                        Regresa a la <Link href="/" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>página principal de Cerrajeros Tetuán</Link> o explora las{' '}
+                        <Link href="/zonas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>zonas que cubrimos en Tetuán</Link>.
+                        Contacta en <Link href="/contacto-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>nuestra página de contacto</Link>.
                     </p>
                 </div>
             </section>

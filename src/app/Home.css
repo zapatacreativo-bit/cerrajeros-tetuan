@@ -597,3 +597,61 @@ section {
 .privacy-link:hover {
     color: #fff;
 }
+
+/* ================= CTA BUTTON PREMIUM ================= */
+.cta-gold-btn {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1.1rem 2.5rem;
+    background: linear-gradient(135deg, #FFD700, #FFA500, #FFD700);
+    background-size: 200% 200%;
+    color: #030b14;
+    font-weight: 800;
+    font-size: 1.1rem;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    border-radius: 0.75rem;
+    border: 2px solid rgba(255, 215, 0, 0.6);
+    box-shadow: 0 0 25px rgba(255, 215, 0, 0.35), 0 8px 30px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+    overflow: hidden;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    animation: ctaPulseGlow 2.5s ease-in-out infinite, ctaGradientShift 4s ease infinite;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.cta-gold-btn:hover {
+    box-shadow: 0 0 50px rgba(255, 215, 0, 0.6), 0 12px 40px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+    transform: scale(1.05);
+    filter: brightness(1.1);
+}
+
+@keyframes ctaPulseGlow {
+
+    0%,
+    100% {
+        box-shadow: 0 0 25px rgba(255, 215, 0, 0.35), 0 8px 30px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+        transform: scale(1);
+    }
+
+    50% {
+        box-shadow: 0 0 40px rgba(255, 215, 0, 0.55), 0 12px 40px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+        transform: scale(1.03);
+    }
+}
+
+@keyframes ctaGradientShift {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}

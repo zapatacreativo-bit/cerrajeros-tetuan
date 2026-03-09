@@ -289,14 +289,14 @@ export default function BravoMurilloEstrecho() {
                     <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Servicios de Cerrajería en el Distrito de Tetuán</h2>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
                         Desde <strong>Bravo Murillo y Estrecho</strong>, ofrecemos cobertura total. ¿Necesitas un{' '}
-                        <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajero 24 horas en Tetuán</Link>? También realizamos{' '}
-                        <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de bombines</Link>,{' '}
-                        <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>instalación de cerraduras</Link> y{' '}
-                        <Link href="/apertura-coches-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de coches en Tetuán</Link>.
+                        <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cerrajero 24 horas en Tetuán</Link>? También realizamos{' '}
+                        <Link href="/cambio-bombines-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cambio de bombines</Link>,{' '}
+                        <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>instalación de cerraduras</Link> y{' '}
+                        <Link href="/apertura-coches-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>apertura de coches en Tetuán</Link>.
                     </p>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
-                        Vuelve a la <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>home de Cerrajeros Tetuán</Link> o contacta con nosotros en{' '}
-                        <Link href="/contacto-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>contacto</Link>.
+                        Vuelve a la <Link href="/" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>home de Cerrajeros Tetuán</Link> o contacta con nosotros en{' '}
+                        <Link href="/contacto-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>contacto</Link>.
                     </p>
                 </div>
             </section>

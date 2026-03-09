@@ -289,14 +289,14 @@ export default function PlazaCastilla() {
                     <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1.5rem', textAlign: 'center' }}>Otros Servicios en Tetuán</h2>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto 1.5rem' }}>
                         Desde <strong>Plaza de Castilla</strong>, cubrimos todo el distrito con <em>cerrajeros profesionales</em>.
-                        Solicita un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de cerraduras</Link>,{' '}
-                        <Link href="/apertura-coches-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>apertura de coches</Link> o{' '}
-                        <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cerrajero 24 horas en Tetuán</Link>.
-                        Disponemos de <Link href="/cambio-bombines-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>cambio de bombines de alta seguridad</Link>.
+                        Solicita un <Link href="/cambio-cerraduras-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cambio de cerraduras</Link>,{' '}
+                        <Link href="/apertura-coches-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>apertura de coches</Link> o{' '}
+                        <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cerrajero 24 horas en Tetuán</Link>.
+                        Disponemos de <Link href="/cambio-bombines-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>cambio de bombines de alta seguridad</Link>.
                     </p>
                     <p style={{ color: '#94a3b8', lineHeight: 1.7, textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
-                        Vuelve a la <Link href="/" style={{ color: '#FFD700', textDecoration: 'underline' }}>home de Cerrajeros Tetuán</Link> o consulta{' '}
-                        <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#FFD700', textDecoration: 'underline' }}>preguntas frecuentes</Link>.
+                        Vuelve a la <Link href="/" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>home de Cerrajeros Tetuán</Link> o consulta{' '}
+                        <Link href="/preguntas-frecuentes-tetuan" style={{ color: '#00E5FF', textDecoration: 'underline', fontWeight: 600 }}>preguntas frecuentes</Link>.
                     </p>
                 </div>
             </section>
