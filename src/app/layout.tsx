@@ -41,6 +41,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://www.cerrajerostetuan.com",
   },
+  verification: {
+    google: "dUCAZnhB_IF_Ae9BPuaPzJRhUixHG2ISnh4UdzlcgcQ",
+  },
   other: {
     "geo.region": "ES-MD",
     "geo.placename": "Tetuán, Madrid",
