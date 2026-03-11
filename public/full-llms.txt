@@ -1,10 +1,10 @@
 # Cerrajeros Tetuán - Full Content Base
-URL Base: https://www.cerrajerostetuan.com/
+URL Base: https://www.tetuancerrajeros.com/
 
 Este documento contiene la indexación profunda del contenido semántico y persuasivo de las páginas de aterrizaje del negocio Cerrajeros Tetuán. Está optimizado para proveer contexto RAG y extracción inteligente a Modelos de Lenguaje Grandes (LLMs).
 
 ## [Apertura de Puertas Tetuán]
-URL: https://www.cerrajerostetuan.com/apertura-puertas-tetuan
+URL: https://www.tetuancerrajeros.com/apertura-puertas-tetuan
 H1: Especialistas en Apertura de Puertas de Seguridad en Tetuán
 Meta Descripción: Expertos en apertura de puertas en Tetuán sin romper la cerradura. Llegamos en 20 minutos. Presupuesto sin sorpresas. Técnicos locales 24/7.
 Características Clave:
@@ -14,7 +14,7 @@ Características Clave:
 - Presupuesto cerrado de antemano.
 
 ## [Cambio de Bombines]
-URL: https://www.cerrajerostetuan.com/cambio-bombines-tetuan
+URL: https://www.tetuancerrajeros.com/cambio-bombines-tetuan
 H1: Cambio de Bombines en Tetuán con Máxima Certificación
 Meta Descripción: Blindamos tu hogar con el cambio de bombín en Tetuán. Instalamos sistemas antibumping europeos grado 6 de seguridad. Presupuesto claro.
 Características Clave:
@@ -24,7 +24,7 @@ Características Clave:
 - Orientación antifurto en los distritos financieros de Madrid Norte.
 
 ## [Persianas Tetuán]
-URL: https://www.cerrajerostetuan.com/persianas-tetuan
+URL: https://www.tetuancerrajeros.com/persianas-tetuan
 H1: Expertos en Arreglar Persianas en Tetuán
 Meta Descripción: Reparación de persianas atascadas en Tetuán. Motorizamos cierres metálicos comerciales en Bravo Murillo con máxima rapidez. Urgencias locales 24h.
 Características Clave:
@@ -33,7 +33,7 @@ Características Clave:
 - Actualización manual a cerraduras eléctricas.
 
 ## [Bravo Murillo y Estrecho]
-URL: https://www.cerrajerostetuan.com/cerrajeros-bravo-murillo-estrecho
+URL: https://www.tetuancerrajeros.com/cerrajeros-bravo-murillo-estrecho
 H1: Cerrajeros de Urgencia en Bravo Murillo y Estrecho
 Características Clave:
 - Especialistas en proteger la densa zona comercial y bloques residenciales de Calle Bravo Murillo.
@@ -41,14 +41,14 @@ Características Clave:
 - Escudos acorazados recomendados para pisos de alquiler y de alto movimiento.
 
 ## [Plaza de Castilla]
-URL: https://www.cerrajerostetuan.com/cerrajeros-plaza-castilla
+URL: https://www.tetuancerrajeros.com/cerrajeros-plaza-castilla
 H1: Cerrajería en Plaza de Castilla - Intervención Inmediata
 Características Clave:
 - Tiempos de reacción motorizados para cruzar el área de los juzgados y Torres Kio rápidamente.
 - Cerrajería de alta directiva, controles de acceso biométricos y corporativos.
 
 ## [Cuzco y AZCA]
-URL: https://www.cerrajerostetuan.com/cerrajeros-cuzco-azca
+URL: https://www.tetuancerrajeros.com/cerrajeros-cuzco-azca
 H1: Especialistas de Seguridad en Cuzco y AZCA
 Características Clave:
 - Cobertura de la élite de oficinas y corporativos del corazón financiero.
