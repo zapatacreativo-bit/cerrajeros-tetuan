@@ -10,20 +10,20 @@ export const metadata: Metadata = {
     description: 'Cerrajeros locales en Bravo Murillo y barrio de Estrecho. Llegamos en 15 minutos. Aperturas sin daños, cerraduras de seguridad y urgencias 24h. Llama al 644 936 742.',
     keywords: 'cerrajeros bravo murillo, cerrajero estrecho, apertura puertas bravo murillo',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/cerrajeros-bravo-murillo-estrecho',
+        canonical: 'https://www.tetuancerrajeros.com/cerrajeros-bravo-murillo-estrecho',
     },
     openGraph: {
         title: 'Cerrajeros en Bravo Murillo y Estrecho | Urgencias 24h Rápidos',
         description: 'Cerrajeros locales en Bravo Murillo y barrio de Estrecho. Llegamos en 15 minutos. Aperturas sin daños, cerraduras de seguridad y urgencias 24h. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/cerrajeros-bravo-murillo-estrecho',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/cerrajeros-bravo-murillo-estrecho',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros en Bravo Murillo y Estrecho | Urgencias 24h Rápidos',
         description: 'Cerrajeros locales en Bravo Murillo y barrio de Estrecho. Llegamos en 15 minutos. Aperturas sin daños, cerraduras de seguridad y urgencias 24h. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

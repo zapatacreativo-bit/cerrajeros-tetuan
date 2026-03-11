@@ -10,20 +10,20 @@ export const metadata: Metadata = {
     description: 'Información legal y de seguridad de Cerrajeros Tetuán.',
     keywords: 'cerrajería tetuán, seguridad madrid, cerrajero madrid',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/blog/cerraduras-invisibles-vs-bombines-alta-seguridad',
+        canonical: 'https://www.tetuancerrajeros.com/blog/cerraduras-invisibles-vs-bombines-alta-seguridad',
     },
     openGraph: {
         title: 'Cerrajeros Tetuán | Cerraduras Invisibles Vs Bombines Alta Seguridad',
         description: 'Información legal y de seguridad de Cerrajeros Tetuán.',
-        url: 'https://www.cerrajerostetuan.com/blog/cerraduras-invisibles-vs-bombines-alta-seguridad',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/blog/cerraduras-invisibles-vs-bombines-alta-seguridad',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros Tetuán | Cerraduras Invisibles Vs Bombines Alta Seguridad',
         description: 'Información legal y de seguridad de Cerrajeros Tetuán.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

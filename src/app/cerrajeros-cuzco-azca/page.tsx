@@ -10,20 +10,20 @@ export const metadata: Metadata = {
     description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 936 742.',
     keywords: 'cerrajeros cuzco, cerrajero azca, seguridad azca',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/cerrajeros-cuzco-azca',
+        canonical: 'https://www.tetuancerrajeros.com/cerrajeros-cuzco-azca',
     },
     openGraph: {
         title: 'Cerrajeros en Cuzco y AZCA | Alta Seguridad Comercial 24h',
         description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/cerrajeros-cuzco-azca',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/cerrajeros-cuzco-azca',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros en Cuzco y AZCA | Alta Seguridad Comercial 24h',
         description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

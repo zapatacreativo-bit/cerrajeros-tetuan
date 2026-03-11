@@ -13,20 +13,20 @@ export const metadata: Metadata = {
     description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 936 742.',
     keywords: 'preguntas frecuentes cerrajero, faqs cerrajeria, dudas cerrajero',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/preguntas-frecuentes-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/preguntas-frecuentes-tetuan',
     },
     openGraph: {
         title: 'Preguntas Frecuentes | Cerrajeros en Tetuán ☎ 644 936 742',
         description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/preguntas-frecuentes-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/preguntas-frecuentes-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Preguntas Frecuentes | Cerrajeros en Tetuán ☎ 644 936 742',
         description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

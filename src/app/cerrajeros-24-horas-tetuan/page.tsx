@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 936 742.',
     keywords: 'cerrajero 24 horas tetuan, cerrajero madrid noche, asistencia 24h',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/cerrajeros-24-horas-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/cerrajeros-24-horas-tetuan',
     },
     openGraph: {
         title: 'Cerrajeros 24 Horas Tetuán | Urgencias ☎ 644 936 742',
         description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/cerrajeros-24-horas-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/cerrajeros-24-horas-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros 24 Horas Tetuán | Urgencias ☎ 644 936 742',
         description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

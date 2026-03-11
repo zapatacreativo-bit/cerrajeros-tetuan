@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Cambio de bombines en Tetuán. Cilindros antibumping certificados. Instalación inmediata. Presupuesto sin compromiso. Llama al 644 936 742.',
     keywords: 'cambio bombin tetuan, cambiar bombin puerta, instalar bombin alta seguridad',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/cambio-bombines-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/cambio-bombines-tetuan',
     },
     openGraph: {
         title: 'Cambio de Bombines en Tetuán | Antibumping ☎ 644 936 742',
         description: 'Cambio de bombines en Tetuán. Cilindros antibumping certificados. Instalación inmediata. Presupuesto sin compromiso. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/cambio-bombines-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/cambio-bombines-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cambio de Bombines en Tetuán | Antibumping ☎ 644 936 742',
         description: 'Cambio de bombines en Tetuán. Cilindros antibumping certificados. Instalación inmediata. Presupuesto sin compromiso. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

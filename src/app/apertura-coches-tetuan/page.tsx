@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 936 742.',
     keywords: 'apertura de coches tetuan, abrir coche tetuan, cerrajero coches',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/apertura-coches-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/apertura-coches-tetuan',
     },
     openGraph: {
         title: 'Apertura de Coches en Tetuán | Sin Daños ☎ 644 936 742',
         description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/apertura-coches-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/apertura-coches-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Apertura de Coches en Tetuán | Sin Daños ☎ 644 936 742',
         description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

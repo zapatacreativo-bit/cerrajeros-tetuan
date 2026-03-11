@@ -8,20 +8,20 @@ export const metadata: Metadata = {
     description: 'Información legal y de seguridad de Cerrajeros Tetuán.',
     keywords: 'cerrajería tetuán, seguridad madrid, cerrajero madrid',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/politica-de-privacidad',
+        canonical: 'https://www.tetuancerrajeros.com/politica-de-privacidad',
     },
     openGraph: {
         title: 'Cerrajeros Tetuán | Politica De Privacidad',
         description: 'Información legal y de seguridad de Cerrajeros Tetuán.',
-        url: 'https://www.cerrajerostetuan.com/politica-de-privacidad',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/politica-de-privacidad',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros Tetuán | Politica De Privacidad',
         description: 'Información legal y de seguridad de Cerrajeros Tetuán.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 
@@ -43,7 +43,7 @@ export default function PoliticaPrivacidad() {
 
                 <section style={{ marginBottom: '2rem' }}>
                     <h2 style={{ fontSize: '1.5rem', color: '#FFD700', marginBottom: '1rem' }}>3. Derechos de los Usuarios</h2>
-                    <p style={{ marginBottom: '1rem', lineHeight: 1.6 }}>Cualquier persona tiene derecho a obtener confirmación sobre si en ALTORIA SERVICOMPLEX S.L. estamos tratando datos personales que les conciernan, o no. Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos dirigiendo un escrito o email info@cerrajerostetuan.com.</p>
+                    <p style={{ marginBottom: '1rem', lineHeight: 1.6 }}>Cualquier persona tiene derecho a obtener confirmación sobre si en ALTORIA SERVICOMPLEX S.L. estamos tratando datos personales que les conciernan, o no. Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos dirigiendo un escrito o email info@tetuancerrajeros.com.</p>
                 </section>
 
                 <section style={{ marginBottom: '2rem' }}>

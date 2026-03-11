@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 936 742.',
     keywords: 'cerrajero urgente tetuan, cerrajeria de urgencia madrid, cerrajero rapido',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/cerrajeros-urgentes-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/cerrajeros-urgentes-tetuan',
     },
     openGraph: {
         title: 'Cerrajeros Urgentes Tetuán | Respuesta Inmediata ☎ 644 936 742',
         description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/cerrajeros-urgentes-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/cerrajeros-urgentes-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros Urgentes Tetuán | Respuesta Inmediata ☎ 644 936 742',
         description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

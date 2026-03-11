@@ -10,20 +10,20 @@ export const metadata: Metadata = {
     description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 936 742.',
     keywords: 'cerrajeros plaza castilla, cerrajero urgencia plaza castilla, puerta plaza castilla',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/cerrajeros-plaza-castilla',
+        canonical: 'https://www.tetuancerrajeros.com/cerrajeros-plaza-castilla',
     },
     openGraph: {
         title: 'Cerrajeros Plaza de Castilla | Madrid Urgencias 24 Horas',
         description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/cerrajeros-plaza-castilla',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/cerrajeros-plaza-castilla',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros Plaza de Castilla | Madrid Urgencias 24 Horas',
         description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

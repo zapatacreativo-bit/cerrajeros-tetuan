@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 936 742.',
     keywords: 'arreglar persiana tetuan, motorizacion cierres, reparacion persianas tetuan',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/persianas-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/persianas-tetuan',
     },
     openGraph: {
         title: 'Persianas en Tetuán | Instalación y Reparación ☎ 644 936 742',
         description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/persianas-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/persianas-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Persianas en Tetuán | Instalación y Reparación ☎ 644 936 742',
         description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

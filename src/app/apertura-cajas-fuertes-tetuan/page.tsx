@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 936 742.',
     keywords: 'apertura de cajas fuertes tetuan, abrir caja fuerte, cerradura caja fuerte',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/apertura-cajas-fuertes-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/apertura-cajas-fuertes-tetuan',
     },
     openGraph: {
         title: 'Apertura de Cajas Fuertes en Tetuán | Discreción ☎ 644 936 742',
         description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/apertura-cajas-fuertes-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/apertura-cajas-fuertes-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Apertura de Cajas Fuertes en Tetuán | Discreción ☎ 644 936 742',
         description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

@@ -10,20 +10,20 @@ export const metadata: Metadata = {
     description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 936 742.',
     keywords: 'cerrajeros zonas tetuan, cerrajeros madrid norte, asistencia cerrajero',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/zonas-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/zonas-tetuan',
     },
     openGraph: {
         title: 'Zonas de Cobertura | Cerrajeros en Tetuán Madrid ☎ 644 936 742',
         description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/zonas-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/zonas-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Zonas de Cobertura | Cerrajeros en Tetuán Madrid ☎ 644 936 742',
         description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

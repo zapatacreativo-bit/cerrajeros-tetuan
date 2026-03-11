@@ -9,20 +9,20 @@ export const metadata: Metadata = {
   description: 'Encuentra información útil y legal sobre nuestros servicios profesionales de cerrajería en Tetuán.',
   keywords: 'cerrajería tetuán, seguridad madrid, cerrajero 24h',
   alternates: {
-    canonical: 'https://www.cerrajerostetuan.com',
+    canonical: 'https://www.tetuancerrajeros.com',
   },
   openGraph: {
     title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
     description: 'Información vital de seguridad para la zona de Tetuán (Madrid).',
-    url: 'https://www.cerrajerostetuan.com',
-    images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+    url: 'https://www.tetuancerrajeros.com',
+    images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
     description: 'Información vital de seguridad residencial.',
-    images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+    images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
   }
 };
 

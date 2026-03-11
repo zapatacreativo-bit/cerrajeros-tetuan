@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 936 742.',
     keywords: 'apertura de puertas tetuan, abrir puerta tetuan, cerrajero tetuan',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/apertura-puertas-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/apertura-puertas-tetuan',
     },
     openGraph: {
         title: 'Apertura de Puertas en Tetuán | Sin Daños ☎ 644 936 742',
         description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/apertura-puertas-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/apertura-puertas-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Apertura de Puertas en Tetuán | Sin Daños ☎ 644 936 742',
         description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

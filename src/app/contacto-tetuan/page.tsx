@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Contacta con Cerrajeros Tetuán. Asistencia inmediata 24 horas. Llama gratis o solicita un estudio de seguridad. Precios transparentes y sin compromiso.',
     keywords: 'contacto cerrajeros tetuan, telefono cerrajero tetuan, llamar cerrajero',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/contacto-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/contacto-tetuan',
     },
     openGraph: {
         title: 'Contacto Cerrajeros Tetuán | Presupuesto y Urgencias 24h',
         description: 'Contacta con Cerrajeros Tetuán. Asistencia inmediata 24 horas. Llama gratis o solicita un estudio de seguridad. Precios transparentes y sin compromiso.',
-        url: 'https://www.cerrajerostetuan.com/contacto-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/contacto-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Contacto Cerrajeros Tetuán | Presupuesto y Urgencias 24h',
         description: 'Contacta con Cerrajeros Tetuán. Asistencia inmediata 24 horas. Llama gratis o solicita un estudio de seguridad. Precios transparentes y sin compromiso.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

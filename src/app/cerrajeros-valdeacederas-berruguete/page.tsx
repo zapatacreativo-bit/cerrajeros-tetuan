@@ -10,20 +10,20 @@ export const metadata: Metadata = {
     description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 936 742.',
     keywords: 'cerrajeros valdeacederas, cerrajero berruguete',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/cerrajeros-valdeacederas-berruguete',
+        canonical: 'https://www.tetuancerrajeros.com/cerrajeros-valdeacederas-berruguete',
     },
     openGraph: {
         title: 'Cerrajeros Valdeacederas y Berruguete | Madrid',
         description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/cerrajeros-valdeacederas-berruguete',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/cerrajeros-valdeacederas-berruguete',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros Valdeacederas y Berruguete | Madrid',
         description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

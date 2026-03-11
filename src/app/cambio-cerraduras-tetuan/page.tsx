@@ -9,20 +9,20 @@ export const metadata: Metadata = {
     description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 936 742.',
     keywords: 'cambio cerradura tetuan, instalar cerradura, cerrajerias tetuan',
     alternates: {
-        canonical: 'https://www.cerrajerostetuan.com/cambio-cerraduras-tetuan',
+        canonical: 'https://www.tetuancerrajeros.com/cambio-cerraduras-tetuan',
     },
     openGraph: {
         title: 'Cambio de Cerraduras en Tetuán | Tu Seguridad Mejorada ☎ 644 936 742',
         description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 936 742.',
-        url: 'https://www.cerrajerostetuan.com/cambio-cerraduras-tetuan',
-        images: [{ url: 'https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
+        url: 'https://www.tetuancerrajeros.com/cambio-cerraduras-tetuan',
+        images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
         title: 'Cambio de Cerraduras en Tetuán | Tu Seguridad Mejorada ☎ 644 936 742',
         description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 936 742.',
-        images: ['https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png'],
+        images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
 

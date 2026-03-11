@@ -26,9 +26,9 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Cerrajeros Tetuán | Servicio 24h Urgente",
     description: "Cerrajeros en Tetuán 24 horas. Intervención en 20 minutos sin intermediarios.",
-    url: "https://www.cerrajerostetuan.com",
+    url: "https://www.tetuancerrajeros.com",
     siteName: "Cerrajeros Tetuán",
-    images: [{ url: "https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png", width: 1200, height: 630 }],
+    images: [{ url: "https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png", width: 1200, height: 630 }],
     locale: "es_ES",
     type: "website",
   },
@@ -36,10 +36,10 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Cerrajeros Tetuán | Servicio 24h Urgente",
     description: "Cerrajeros en Tetuán 24 horas. Llegamos en 20 min. Llama al 644 936 742.",
-    images: ["https://www.cerrajerostetuan.com/images/home_hero_1772538336101.png"],
+    images: ["https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png"],
   },
   alternates: {
-    canonical: "https://www.cerrajerostetuan.com",
+    canonical: "https://www.tetuancerrajeros.com",
   },
   verification: {
     google: "dUCAZnhB_IF_Ae9BPuaPzJRhUixHG2ISnh4UdzlcgcQ",
@@ -67,9 +67,9 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               "name": "Cerrajeros Tetuán",
-              "image": "https://www.cerrajerostetuan.com/images/custom_logo.png",
-              "@id": "https://www.cerrajerostetuan.com",
-              "url": "https://www.cerrajerostetuan.com",
+              "image": "https://www.tetuancerrajeros.com/images/custom_logo.png",
+              "@id": "https://www.tetuancerrajeros.com",
+              "url": "https://www.tetuancerrajeros.com",
               "telephone": "+34644936742",
               "address": {
                 "@type": "PostalAddress",
