@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Reparación de Cerraduras en Tetuán | Rápidos y Honestos ☎ 644 936 742',
-    description: 'Reparación de cerraduras en Tetuán. Arreglamos cerraduras bloqueadas, atascadas y llaves partidas. Llegamos en 20 min. Llama al 644 936 742.',
+    title: 'Reparación de Cerraduras en Tetuán | Rápidos y Honestos ☎ 644 06 10 05',
+    description: 'Reparación de cerraduras en Tetuán. Arreglamos cerraduras bloqueadas, atascadas y llaves partidas. Llegamos en 20 min. Llama al 644 06 10 05.',
     keywords: 'reparacion cerradura tetuan, arreglar cerradura rota, cerrajeria',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/reparacion-cerraduras-tetuan',
     },
     openGraph: {
-        title: 'Reparación de Cerraduras en Tetuán | Rápidos y Honestos ☎ 644 936 742',
-        description: 'Reparación de cerraduras en Tetuán. Arreglamos cerraduras bloqueadas, atascadas y llaves partidas. Llegamos en 20 min. Llama al 644 936 742.',
+        title: 'Reparación de Cerraduras en Tetuán | Rápidos y Honestos ☎ 644 06 10 05',
+        description: 'Reparación de cerraduras en Tetuán. Arreglamos cerraduras bloqueadas, atascadas y llaves partidas. Llegamos en 20 min. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/reparacion-cerraduras-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Reparación de Cerraduras en Tetuán | Rápidos y Honestos ☎ 644 936 742',
-        description: 'Reparación de cerraduras en Tetuán. Arreglamos cerraduras bloqueadas, atascadas y llaves partidas. Llegamos en 20 min. Llama al 644 936 742.',
+        title: 'Reparación de Cerraduras en Tetuán | Rápidos y Honestos ☎ 644 06 10 05',
+        description: 'Reparación de cerraduras en Tetuán. Arreglamos cerraduras bloqueadas, atascadas y llaves partidas. Llegamos en 20 min. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function ReparacionCerraduras() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -223,7 +223,7 @@ export default function ReparacionCerraduras() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>¿El mecanismo se resiste?</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>No fuerces la cerradura más tiempo, podríamos arreglarla hoy por un coste bajísimo.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Pedir Diagnóstico al 644 936 742</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Pedir Diagnóstico al 644 06 10 05</a>
                 </div>
             </section>
         </main>

@@ -6,23 +6,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Zonas de Cobertura | Cerrajeros en Tetuán Madrid ☎ 644 936 742',
-    description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 936 742.',
+    title: 'Zonas de Cobertura | Cerrajeros en Tetuán Madrid ☎ 644 06 10 05',
+    description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 06 10 05.',
     keywords: 'cerrajeros zonas tetuan, cerrajeros madrid norte, asistencia cerrajero',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/zonas-tetuan',
     },
     openGraph: {
-        title: 'Zonas de Cobertura | Cerrajeros en Tetuán Madrid ☎ 644 936 742',
-        description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 936 742.',
+        title: 'Zonas de Cobertura | Cerrajeros en Tetuán Madrid ☎ 644 06 10 05',
+        description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/zonas-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Zonas de Cobertura | Cerrajeros en Tetuán Madrid ☎ 644 936 742',
-        description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 936 742.',
+        title: 'Zonas de Cobertura | Cerrajeros en Tetuán Madrid ☎ 644 06 10 05',
+        description: 'Cobertura completa en el distrito de Tetuán. Cerrajeros rápidos en Cuzco, Ventilla, Bellas Vistas, AZCA, Cuatro Caminos y Castillejos. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -74,7 +74,7 @@ export default function ZonasTetuan() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": [
             { "@type": "Place", "name": "Bellas Vistas" },
@@ -278,7 +278,7 @@ export default function ZonasTetuan() {
                         <p className="section-desc" style={{ marginBottom: '2rem' }}>Tetuán se moderniza hacia 2026, pasando desde los desarrollos del Paseo de la Dirección hasta la torre de oficinas en AZCA. Nuestra <strong>seguridad física</strong> evoluciona contigo gracias a inversión constante y herramientas punteras.</p>
                         <div style={{ display: 'flex', gap: '1rem' }}>
                             <Link href="/contacto-tetuan" className="btn-secondary" style={{ padding: '15px 30px' }}>Solicitar Visita</Link>
-                            <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>LLamar Urgencia</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>LLamar Urgencia</a>
                         </div>
                     </div>
                 </div>
@@ -311,7 +311,7 @@ export default function ZonasTetuan() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Protege tu hogar en Tetuán hoy mismo</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Atención ultra-rápida. Sin destrozos. Garantía de vecinos.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con un Cerrajero: 644 936 742</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con un Cerrajero: 644 06 10 05</a>
                 </div>
             </section>
         </main>

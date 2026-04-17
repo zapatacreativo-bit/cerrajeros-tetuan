@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Cambio de Cerraduras en Tetuán | Tu Seguridad Mejorada ☎ 644 936 742',
-    description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 936 742.',
+    title: 'Cambio de Cerraduras en Tetuán | Tu Seguridad Mejorada ☎ 644 06 10 05',
+    description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 06 10 05.',
     keywords: 'cambio cerradura tetuan, instalar cerradura, cerrajerias tetuan',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cambio-cerraduras-tetuan',
     },
     openGraph: {
-        title: 'Cambio de Cerraduras en Tetuán | Tu Seguridad Mejorada ☎ 644 936 742',
-        description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 936 742.',
+        title: 'Cambio de Cerraduras en Tetuán | Tu Seguridad Mejorada ☎ 644 06 10 05',
+        description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cambio-cerraduras-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Cambio de Cerraduras en Tetuán | Tu Seguridad Mejorada ☎ 644 936 742',
-        description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 936 742.',
+        title: 'Cambio de Cerraduras en Tetuán | Tu Seguridad Mejorada ☎ 644 06 10 05',
+        description: 'Cambio de cerraduras en Tetuán. Actualización a sistemas antibumping, electrónicos y bombines de alta seguridad. Presupuesto sin compromiso. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function CambioCerraduras() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -197,7 +197,7 @@ export default function CambioCerraduras() {
                         <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Si sientes que tu llave <em>'raya' al entrar</em> o que necesitas jugar con el bombo de la puerta para que abra, el colapso de pines está cerca. Es más barato hacer el cambio en horario comercial hoy que pagar una urgencia nocturna el fin de semana. También puedes consultar nuestro servicio de <Link href="/instalacion-cerraduras-tetuan" style={{ color: '#FFD700' }}>instalación de cerraduras en Tetuán</Link> para puertas nuevas.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con un Técnico Ahora</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con un Técnico Ahora</a>
                         </div>
                     </div>
                 </div>
@@ -227,7 +227,7 @@ export default function CambioCerraduras() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Moderniza tu entrada, elimina las dudas</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Especialistas en Tetuán. Precios fijos telefónicos, transparencia absoluta.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Consulta de Presupuesto Telefónico</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Consulta de Presupuesto Telefónico</a>
                 </div>
             </section>
         </main>

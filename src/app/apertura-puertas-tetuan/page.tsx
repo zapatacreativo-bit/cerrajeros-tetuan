@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Apertura de Puertas en Tetuán | Sin Daños ☎ 644 936 742',
-    description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 936 742.',
+    title: 'Apertura de Puertas en Tetuán | Sin Daños ☎ 644 06 10 05',
+    description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 06 10 05.',
     keywords: 'apertura de puertas tetuan, abrir puerta tetuan, cerrajero tetuan',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/apertura-puertas-tetuan',
     },
     openGraph: {
-        title: 'Apertura de Puertas en Tetuán | Sin Daños ☎ 644 936 742',
-        description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 936 742.',
+        title: 'Apertura de Puertas en Tetuán | Sin Daños ☎ 644 06 10 05',
+        description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/apertura-puertas-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Apertura de Puertas en Tetuán | Sin Daños ☎ 644 936 742',
-        description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 936 742.',
+        title: 'Apertura de Puertas en Tetuán | Sin Daños ☎ 644 06 10 05',
+        description: 'Servicio de apertura de puertas en Tetuán. Técnicas no destructivas, llegada en 20 min. Disponible 24h. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function AperturaPuertas() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -230,7 +230,7 @@ export default function AperturaPuertas() {
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Precios Claros. Cero Sorpresas.</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Escríbenos para tu diagnóstico previo o llama por una urgencia roja en Tetuán.</p>
                     <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center' }}>
-                        <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>644 936 742</a>
+                        <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>644 06 10 05</a>
                         <Link href="/contacto-tetuan" className="btn-secondary" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem' }}>Solicitar Visita</Link>
                     </div>
                 </div>

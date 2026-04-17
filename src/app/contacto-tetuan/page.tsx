@@ -104,7 +104,7 @@ export default function Contacto() {
                             </div>
                             <h2 style={{ fontSize: '1.5rem', color: '#fff', marginBottom: '1rem' }}>Llamada de Urgencia</h2>
                             <p style={{ color: '#94a3b8', marginBottom: '2rem', lineHeight: '1.6' }}>Atención inmediata 24/7. Trato directo con el especialista para aperturas de puertas y bloqueos severos.</p>
-                            <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626', width: '100%', padding: '1rem' }}>Llamar al 644 936 742</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626', width: '100%', padding: '1rem' }}>Llamar al 644 06 10 05</a>
                         </div>
 
                         {/* WHATSAPP CARD (DIAGNOSTIC) */}
@@ -115,7 +115,7 @@ export default function Contacto() {
                             <h2 style={{ fontSize: '1.5rem', color: '#fff', marginBottom: '1rem' }}>Diagnóstico Visual</h2>
                             <p style={{ color: '#94a3b8', marginBottom: '2rem', lineHeight: '1.6' }}>Envíanos fotos de tu puerta para un presupuesto de mejora de seguridad antibumping extremadamente preciso.</p>
                             {/* Dummy whatsapp link */}
-                            <a href="https://wa.me/34644936742?text=Hola,%20necesito%20una%20consulta%20de%20cerrajería." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ background: '#22c55e', borderColor: '#22c55e', width: '100%', padding: '1rem', color: '#fff' }}>Abrir WhatsApp</a>
+                            <a href="https://wa.me/34644061005?text=Hola,%20necesito%20una%20consulta%20de%20cerrajería." target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ background: '#22c55e', borderColor: '#22c55e', width: '100%', padding: '1rem', color: '#fff' }}>Abrir WhatsApp</a>
                         </div>
 
                         {/* EMAIL CARD (CORPORATE) */}

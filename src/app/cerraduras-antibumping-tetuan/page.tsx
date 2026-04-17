@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Cerraduras Antibumping en Tetuán | Máxima Seguridad ☎ 644 936 742',
-    description: 'Instalación de cerraduras antibumping en Tetuán. Bombines antitaladro y escudos acorazados. Llegamos en 20 min. Llama al 644 936 742.',
+    title: 'Cerraduras Antibumping en Tetuán | Máxima Seguridad ☎ 644 06 10 05',
+    description: 'Instalación de cerraduras antibumping en Tetuán. Bombines antitaladro y escudos acorazados. Llegamos en 20 min. Llama al 644 06 10 05.',
     keywords: 'cerradura antibumping tetuan, bombin antibumping, seguridad puerta',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cerraduras-antibumping-tetuan',
     },
     openGraph: {
-        title: 'Cerraduras Antibumping en Tetuán | Máxima Seguridad ☎ 644 936 742',
-        description: 'Instalación de cerraduras antibumping en Tetuán. Bombines antitaladro y escudos acorazados. Llegamos en 20 min. Llama al 644 936 742.',
+        title: 'Cerraduras Antibumping en Tetuán | Máxima Seguridad ☎ 644 06 10 05',
+        description: 'Instalación de cerraduras antibumping en Tetuán. Bombines antitaladro y escudos acorazados. Llegamos en 20 min. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cerraduras-antibumping-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Cerraduras Antibumping en Tetuán | Máxima Seguridad ☎ 644 936 742',
-        description: 'Instalación de cerraduras antibumping en Tetuán. Bombines antitaladro y escudos acorazados. Llegamos en 20 min. Llama al 644 936 742.',
+        title: 'Cerraduras Antibumping en Tetuán | Máxima Seguridad ☎ 644 06 10 05',
+        description: 'Instalación de cerraduras antibumping en Tetuán. Bombines antitaladro y escudos acorazados. Llegamos en 20 min. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function CerradurasAntibumping() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -197,7 +197,7 @@ export default function CerradurasAntibumping() {
                         <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Desde la Plaza de la Remonta hasta Cuzco, operamos en <strong>unidades tácticas</strong> llevando el catálogo en la furgoneta. En menos de 40 minutos actualizamos tu blindaje, enroscamos <em>escudos de lenteja giratoria</em>, y desaparecemos.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Asesor de Seguridad</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Asesor de Seguridad</a>
                         </div>
                     </div>
                 </div>
@@ -227,7 +227,7 @@ export default function CerradurasAntibumping() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Ciérrales la puerta al silencio</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Especialistas certificados en Tetuán con stock constante. Instalación en el mismo día.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Pedir Diagnóstico Antibumping</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Pedir Diagnóstico Antibumping</a>
                 </div>
             </section>
         </main>

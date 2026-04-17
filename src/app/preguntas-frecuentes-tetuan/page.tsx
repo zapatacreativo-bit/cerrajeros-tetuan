@@ -9,23 +9,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Preguntas Frecuentes | Cerrajeros en Tetuán ☎ 644 936 742',
-    description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 936 742.',
+    title: 'Preguntas Frecuentes | Cerrajeros en Tetuán ☎ 644 06 10 05',
+    description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 06 10 05.',
     keywords: 'preguntas frecuentes cerrajero, faqs cerrajeria, dudas cerrajero',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/preguntas-frecuentes-tetuan',
     },
     openGraph: {
-        title: 'Preguntas Frecuentes | Cerrajeros en Tetuán ☎ 644 936 742',
-        description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 936 742.',
+        title: 'Preguntas Frecuentes | Cerrajeros en Tetuán ☎ 644 06 10 05',
+        description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/preguntas-frecuentes-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Preguntas Frecuentes | Cerrajeros en Tetuán ☎ 644 936 742',
-        description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 936 742.',
+        title: 'Preguntas Frecuentes | Cerrajeros en Tetuán ☎ 644 06 10 05',
+        description: 'Resuelve todas tus dudas sobre cerrajería en Tetuán. Tiempos de respuesta, tarifas, seguridad y métodos de apertura sin rotura. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -109,7 +109,7 @@ export default function PreguntasFrecuentes() {
                         ¿Tienes dudas sobre <strong>tiempos de respuesta</strong>, tarifas o <em>seguridad en Tetuán</em>? Aquí respondemos a las consultas más habituales de nuestros vecinos con total transparencia.
                     </p>
                     <div style={{ display: 'flex', gap: '1.5rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-                        <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', fontSize: '1.1rem', padding: '1rem 2rem' }}>
+                        <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', fontSize: '1.1rem', padding: '1rem 2rem' }}>
                             <PhoneCall size={22} />
                             Urgencias 24h
                         </a>
@@ -263,8 +263,8 @@ export default function PreguntasFrecuentes() {
                         No dejes la seguridad al azar. Llámanos ahora mismo y uno de nuestros expertos cerrajeros en Tetuán te asesorará personalmente, sin compromiso. Resuelve el problema hoy.
                     </p>
                     <div style={{ display: 'flex', gap: '1.5rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-                        <a href="tel:644936742" className="btn-primary" style={{ padding: '1.2rem 2.5rem', fontSize: '1.2rem', display: 'inline-flex', alignItems: 'center', gap: '0.75rem', boxShadow: '0 0 20px rgba(255, 215, 0, 0.4)' }}>
-                            <PhoneCall size={24} /> Llamar al 644 936 742
+                        <a href="tel:644061005" className="btn-primary" style={{ padding: '1.2rem 2.5rem', fontSize: '1.2rem', display: 'inline-flex', alignItems: 'center', gap: '0.75rem', boxShadow: '0 0 20px rgba(255, 215, 0, 0.4)' }}>
+                            <PhoneCall size={24} /> Llamar al 644 06 10 05
                         </a>
                         <Link href="/contacto-tetuan" style={{ padding: '1.2rem 2.5rem', fontSize: '1.2rem', display: 'inline-flex', alignItems: 'center', gap: '0.75rem', background: 'transparent', color: '#fff', border: '2px solid #FFD700', borderRadius: '0.5rem', textDecoration: 'none', fontWeight: 600 }} className="hover:bg-yellow-400 hover:text-black transition-all">
                             Formulario de Contacto

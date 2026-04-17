@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Instalación de Cerraduras en Tetuán | Alta Seguridad ☎ 644 936 742',
-    description: 'Instalación de cerraduras de alta seguridad en Tetuán. Sistemas antibumping, motorizadas y escudos acorazados. Llegamos en 20 min. Llama al 644 936 742.',
+    title: 'Instalación de Cerraduras en Tetuán | Alta Seguridad ☎ 644 06 10 05',
+    description: 'Instalación de cerraduras de alta seguridad en Tetuán. Sistemas antibumping, motorizadas y escudos acorazados. Llegamos en 20 min. Llama al 644 06 10 05.',
     keywords: 'instalacion cerrojos tetuan, instalar cerradura nueva, escudo acorazado',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/instalacion-cerraduras-tetuan',
     },
     openGraph: {
-        title: 'Instalación de Cerraduras en Tetuán | Alta Seguridad ☎ 644 936 742',
-        description: 'Instalación de cerraduras de alta seguridad en Tetuán. Sistemas antibumping, motorizadas y escudos acorazados. Llegamos en 20 min. Llama al 644 936 742.',
+        title: 'Instalación de Cerraduras en Tetuán | Alta Seguridad ☎ 644 06 10 05',
+        description: 'Instalación de cerraduras de alta seguridad en Tetuán. Sistemas antibumping, motorizadas y escudos acorazados. Llegamos en 20 min. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/instalacion-cerraduras-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Instalación de Cerraduras en Tetuán | Alta Seguridad ☎ 644 936 742',
-        description: 'Instalación de cerraduras de alta seguridad en Tetuán. Sistemas antibumping, motorizadas y escudos acorazados. Llegamos en 20 min. Llama al 644 936 742.',
+        title: 'Instalación de Cerraduras en Tetuán | Alta Seguridad ☎ 644 06 10 05',
+        description: 'Instalación de cerraduras de alta seguridad en Tetuán. Sistemas antibumping, motorizadas y escudos acorazados. Llegamos en 20 min. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function InstalacionCerraduras() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -232,7 +232,7 @@ export default function InstalacionCerraduras() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Refuerza tu puerta en 1 hora</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Escríbenos para recibir un presupuesto con catálogo de cilindros Kaba o Tesa.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Asesor de Seguridad</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Asesor de Seguridad</a>
                 </div>
             </section>
         </main>

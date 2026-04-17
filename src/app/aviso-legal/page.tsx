@@ -41,7 +41,7 @@ export default function AvisoLegal() {
                         <li><strong>Domicilio Social:</strong> C. del Marqués de Leis, 4, Tetuán, 28020 Madrid.</li>
                         <li><strong>Actividad:</strong> Servicios de Cerrajería, Seguridad Física y Automatismos.</li>
                         <li><strong>Email de contacto:</strong> info@tetuancerrajeros.com</li>
-                        <li><strong>Teléfono:</strong> (+34) 644 936 742</li>
+                        <li><strong>Teléfono:</strong> (+34) 644 06 10 05</li>
                     </ul>
                 </section>
 

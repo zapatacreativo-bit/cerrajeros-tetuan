@@ -7,14 +7,14 @@ import '../Home.css';
 
 export const metadata: Metadata = {
     title: 'Cerrajeros Plaza de Castilla | Madrid Urgencias 24 Horas',
-    description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 936 742.',
+    description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 06 10 05.',
     keywords: 'cerrajeros plaza castilla, cerrajero urgencia plaza castilla, puerta plaza castilla',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cerrajeros-plaza-castilla',
     },
     openGraph: {
         title: 'Cerrajeros Plaza de Castilla | Madrid Urgencias 24 Horas',
-        description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 936 742.',
+        description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cerrajeros-plaza-castilla',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros Plaza de Castilla | Madrid Urgencias 24 Horas',
-        description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 936 742.',
+        description: 'Servicio de Cerrajería en la zona norte y Plaza de Castilla (Madrid). Somos cerrajeros forenses preparados para apertura judicial, bombines de alta gama y urgencias inmediatas. 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -87,7 +87,7 @@ export default function PlazaCastilla() {
                             Elevando los estándares de <strong>seguridad</strong> para el <em>hub judicial y corporativo</em> del noreste de Madrid. <strong>Control de accesos</strong> y <em>aperturas de alta gama</em>.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 06 10 05</a>
                             <Link href="#informes" className="btn-outline">Ver Procedimientos</Link>
                         </div>
                     </div>

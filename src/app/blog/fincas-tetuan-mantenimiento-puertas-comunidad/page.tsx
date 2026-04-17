@@ -97,7 +97,7 @@ export default function BlogPost6() {
                         <div style={{ background: '#0a192f', border: '1px solid #FFD700', padding: '2rem', borderRadius: '0.5rem', textAlign: 'center', marginTop: '3rem' }}>
                             <h3 style={{ color: '#fff', marginBottom: '1rem' }}>Mantenimiento para Administradores de Fincas</h3>
                             <p style={{ color: '#94a3b8', marginBottom: '1.5rem' }}>Ofrecemos pólizas de iguala de mantenimiento para grandes comunidades y administradores en la zona. Nos encargamos del lubricado hidrodinámico y ajuste de todas las puertas ignífugas de garaje y portales peatonales. Cuida tu patrimonio común.</p>
-                            <Link href="tel:+34910000000" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', background: '#FFD700', color: '#000', padding: '0.75rem 2rem', borderRadius: '0.25rem', fontWeight: 700, textDecoration: 'none' }}>
+                            <Link href="tel:+34644061005" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', background: '#FFD700', color: '#000', padding: '0.75rem 2rem', borderRadius: '0.25rem', fontWeight: 700, textDecoration: 'none' }}>
                                 <Wrench size={20} /> Solicitar <strong>Presupuesto para Comunidad</strong>
                             </Link>
                         </div>

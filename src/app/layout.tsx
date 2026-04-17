@@ -19,8 +19,8 @@ import Footer from "../components/Footer";
 import FloatingCTA from "../components/FloatingCTA";
 
 export const metadata: Metadata = {
-  title: "Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742",
-  description: "Cerrajeros en Tetuán 24 horas. Apertura de puertas, cambio de cerraduras, bombines antibumping. Llegamos en 20 min. Llama al 644 936 742.",
+  title: "Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 06 10 05",
+  description: "Cerrajeros en Tetuán 24 horas. Apertura de puertas, cambio de cerraduras, bombines antibumping. Llegamos en 20 min. Llama al 644 06 10 05.",
   keywords: "cerrajeros tetuan, cerrajero urgente tetuan, cerrajero 24 horas madrid, cambiar bombin tetuan, abrir puerta tetuan",
   authors: [{ name: "Cerrajeros Tetuán" }],
   openGraph: {
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Cerrajeros Tetuán | Servicio 24h Urgente",
-    description: "Cerrajeros en Tetuán 24 horas. Llegamos en 20 min. Llama al 644 936 742.",
+    description: "Cerrajeros en Tetuán 24 horas. Llegamos en 20 min. Llama al 644 06 10 05.",
     images: ["https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png"],
   },
   alternates: {
@@ -70,7 +70,7 @@ export default function RootLayout({
               "image": "https://www.tetuancerrajeros.com/images/custom_logo.png",
               "@id": "https://www.tetuancerrajeros.com",
               "url": "https://www.tetuancerrajeros.com",
-              "telephone": "+34644936742",
+              "telephone": "+34644061005",
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Tetuán, Madrid",

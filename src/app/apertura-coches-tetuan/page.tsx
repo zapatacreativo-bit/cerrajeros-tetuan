@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Apertura de Coches en Tetuán | Sin Daños ☎ 644 936 742',
-    description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 936 742.',
+    title: 'Apertura de Coches en Tetuán | Sin Daños ☎ 644 06 10 05',
+    description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 06 10 05.',
     keywords: 'apertura de coches tetuan, abrir coche tetuan, cerrajero coches',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/apertura-coches-tetuan',
     },
     openGraph: {
-        title: 'Apertura de Coches en Tetuán | Sin Daños ☎ 644 936 742',
-        description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 936 742.',
+        title: 'Apertura de Coches en Tetuán | Sin Daños ☎ 644 06 10 05',
+        description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/apertura-coches-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Apertura de Coches en Tetuán | Sin Daños ☎ 644 936 742',
-        description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 936 742.',
+        title: 'Apertura de Coches en Tetuán | Sin Daños ☎ 644 06 10 05',
+        description: 'Apertura de coches en Tetuán. Técnicos especializados en vehículos de todas las marcas. Llegamos en 15 min. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function AperturaCoches() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -197,7 +197,7 @@ export default function AperturaCoches() {
                         <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>En Tetuán la <strong>seguridad física</strong> también aplica a tu medio de transporte. Si una cerradura fue forzada con ganzúas baratas en un intento de robo, reemplazamos cilindros de puerta. Nuestros <Link href="/cerrajeros-24-horas-tetuan" style={{ color: '#FFD700' }}>cerrajeros 24 horas en Tetuán</Link> están disponibles <em>incluso de madrugada</em>.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Rescate Vehicular Ya</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Rescate Vehicular Ya</a>
                         </div>
                     </div>
                 </div>
@@ -227,7 +227,7 @@ export default function AperturaCoches() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Solucionamos el bloqueo al instante</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Sin destrozos de cristal ni espera de talleres. Especialistas en tu barrio.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Llamar Unidad Móvil: 644 936 742</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Llamar Unidad Móvil: 644 06 10 05</a>
                 </div>
             </section>
         </main>

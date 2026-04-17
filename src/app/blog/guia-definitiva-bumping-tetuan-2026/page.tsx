@@ -119,7 +119,7 @@ export default function BlogPost1() {
                         <div style={{ background: '#0a192f', border: '1px solid #FFD700', padding: '2rem', borderRadius: '0.5rem', textAlign: 'center', marginTop: '3rem' }}>
                             <h3 style={{ color: '#fff', marginBottom: '1rem' }}>¿Necesitas una Evaluación Gratuita en Tetuán?</h3>
                             <p style={{ color: '#94a3b8', marginBottom: '1.5rem' }}>No esperes a sufrir un hurto silencioso. Nuestros maestros cerrajeros pueden evaluar el nivel defensivo actual de tu puerta y proporcionar un presupuesto cerrado para su total inmunización en el día.</p>
-                            <Link href="tel:+34910000000" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', background: '#FFD700', color: '#000', padding: '0.75rem 2rem', borderRadius: '0.25rem', fontWeight: 700, textDecoration: 'none' }}>
+                            <Link href="tel:+34644061005" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', background: '#FFD700', color: '#000', padding: '0.75rem 2rem', borderRadius: '0.25rem', fontWeight: 700, textDecoration: 'none' }}>
                                 <Clock size={20} /> Solicitar <strong><Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#000', textDecoration: 'underline' }}>Cerrajero al instante</Link></strong>
                             </Link>
                         </div>

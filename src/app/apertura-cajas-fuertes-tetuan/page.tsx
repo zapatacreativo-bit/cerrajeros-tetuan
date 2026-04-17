@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Apertura de Cajas Fuertes en Tetuán | Discreción ☎ 644 936 742',
-    description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 936 742.',
+    title: 'Apertura de Cajas Fuertes en Tetuán | Discreción ☎ 644 06 10 05',
+    description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 06 10 05.',
     keywords: 'apertura de cajas fuertes tetuan, abrir caja fuerte, cerradura caja fuerte',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/apertura-cajas-fuertes-tetuan',
     },
     openGraph: {
-        title: 'Apertura de Cajas Fuertes en Tetuán | Discreción ☎ 644 936 742',
-        description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 936 742.',
+        title: 'Apertura de Cajas Fuertes en Tetuán | Discreción ☎ 644 06 10 05',
+        description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/apertura-cajas-fuertes-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Apertura de Cajas Fuertes en Tetuán | Discreción ☎ 644 936 742',
-        description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 936 742.',
+        title: 'Apertura de Cajas Fuertes en Tetuán | Discreción ☎ 644 06 10 05',
+        description: 'Apertura técnica de cajas fuertes en Tetuán. Especialistas en sistemas mecánicos y electrónicos. Total discreción y confidencialidad. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function AperturaCajasFuertes() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -196,7 +196,7 @@ export default function AperturaCajasFuertes() {
                         <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Tras la apertura, no solo cambiamos la combinación; realizamos un <em>"borrado forense"</em> de los registros de la caja fuerte para que no quede constancia de nuestra intervención, dejándote como el <strong>único poseedor de los datos de acceso</strong>.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Consulta Confidencial 24h</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Consulta Confidencial 24h</a>
                         </div>
                     </div>
                 </div>
@@ -226,7 +226,7 @@ export default function AperturaCajasFuertes() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Recuperamos tu tranquilidad en horas</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Especialistas certificados en cajas Fichet, BTV, Ferrimax, Olle y Arcas Gruber.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Técnico Especializado</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Técnico Especializado</a>
                 </div>
             </section>
         </main>

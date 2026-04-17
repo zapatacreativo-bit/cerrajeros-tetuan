@@ -7,14 +7,14 @@ import '../Home.css';
 
 export const metadata: Metadata = {
     title: 'Cerrajeros en Almenara y Ventilla | Urgencias 24h Rápidos',
-    description: 'Servicio vecinal de cerrajería en Almenara y barrio de La Ventilla (Tetuán). Llegamos volando. Aperturas urgentes al mejor precio. Llama al 644 936 742.',
+    description: 'Servicio vecinal de cerrajería en Almenara y barrio de La Ventilla (Tetuán). Llegamos volando. Aperturas urgentes al mejor precio. Llama al 644 06 10 05.',
     keywords: 'cerrajeros almenara, cerrajero ventilla, apertura puertas ventilla',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cerrajeros-almenara-ventilla',
     },
     openGraph: {
         title: 'Cerrajeros en Almenara y Ventilla | Urgencias 24h Rápidos',
-        description: 'Servicio vecinal de cerrajería en Almenara y barrio de La Ventilla (Tetuán). Llegamos volando. Aperturas urgentes al mejor precio. Llama al 644 936 742.',
+        description: 'Servicio vecinal de cerrajería en Almenara y barrio de La Ventilla (Tetuán). Llegamos volando. Aperturas urgentes al mejor precio. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cerrajeros-almenara-ventilla',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros en Almenara y Ventilla | Urgencias 24h Rápidos',
-        description: 'Servicio vecinal de cerrajería en Almenara y barrio de La Ventilla (Tetuán). Llegamos volando. Aperturas urgentes al mejor precio. Llama al 644 936 742.',
+        description: 'Servicio vecinal de cerrajería en Almenara y barrio de La Ventilla (Tetuán). Llegamos volando. Aperturas urgentes al mejor precio. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -87,7 +87,7 @@ export default function AlmenaraVentilla() {
                             Tu <strong>cerrajero vecinal</strong> de máxima confianza. <em>Aperturas urgentes</em>, sustitución de cerrojos y <strong>refuerzo de puertas</strong> en pisos familiares de toda la <em>zona Norte de Tetuán</em>.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 06 10 05</a>
                             <Link href="#informes" className="btn-outline">Ver Procedimientos</Link>
                         </div>
                     </div>

@@ -7,14 +7,14 @@ import '../Home.css';
 
 export const metadata: Metadata = {
     title: 'Cerrajeros en Cuzco y AZCA | Alta Seguridad Comercial 24h',
-    description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 936 742.',
+    description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 06 10 05.',
     keywords: 'cerrajeros cuzco, cerrajero azca, seguridad azca',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cerrajeros-cuzco-azca',
     },
     openGraph: {
         title: 'Cerrajeros en Cuzco y AZCA | Alta Seguridad Comercial 24h',
-        description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 936 742.',
+        description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cerrajeros-cuzco-azca',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros en Cuzco y AZCA | Alta Seguridad Comercial 24h',
-        description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 936 742.',
+        description: 'Cerrajería corporativa en Cuzco y AZCA. Expertos en control de accesos, cerraduras biométricas y urgencias para empresas. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -87,7 +87,7 @@ export default function CuzcoAzca() {
                             El <strong>corazón financiero de Madrid</strong> exige un nivel de <em>seguridad excepcional</em>. <strong>Soluciones biométricas</strong> y <em>aperturas confidenciales</em> ultrarrápidas.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 06 10 05</a>
                             <Link href="#informes" className="btn-outline">Ver Procedimientos</Link>
                         </div>
                     </div>

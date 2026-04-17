@@ -5,14 +5,14 @@ import FAQAccordion from '../components/FAQAccordion';
 import './Home.css';
 
 export const metadata: Metadata = {
-  title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
+  title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 06 10 05',
   description: 'Encuentra información útil y legal sobre nuestros servicios profesionales de cerrajería en Tetuán.',
   keywords: 'cerrajería tetuán, seguridad madrid, cerrajero 24h',
   alternates: {
     canonical: 'https://www.tetuancerrajeros.com',
   },
   openGraph: {
-    title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
+    title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 06 10 05',
     description: 'Información vital de seguridad para la zona de Tetuán (Madrid).',
     url: 'https://www.tetuancerrajeros.com',
     images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 936 742',
+    title: 'Cerrajeros Tetuán | Servicio 24h Urgente ☎ 644 06 10 05',
     description: 'Información vital de seguridad residencial.',
     images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
   }
@@ -58,9 +58,9 @@ export default function Home() {
           </p>
 
           <div className="hero-cta-group animate-slide-up" style={{ animationDelay: '0.2s' }}>
-            <a href="tel:644936742" className="btn-primary hero-btn-main">
+            <a href="tel:644061005" className="btn-primary hero-btn-main">
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-              Llamar Urgencias 644 936 742
+              Llamar Urgencias 644 06 10 05
             </a>
             <Link href="#diagnostico" className="btn-outline hero-btn-alt">
               Diagnóstico Online
@@ -312,7 +312,7 @@ export default function Home() {
             <div className="diagnostic-info">
               <h2 className="diagnostic-title">Solicita Asistencia Rápida</h2>
               <p className="diagnostic-desc">
-                Completa este formulario o llámanos directamente al <strong>644 936 742</strong> para una respuesta en el acto. Al estar en la zona de Tetuán, somos tu mejor opción.
+                Completa este formulario o llámanos directamente al <strong>644 06 10 05</strong> para una respuesta en el acto. Al estar en la zona de Tetuán, somos tu mejor opción.
               </p>
               <div className="diagnostic-steps">
                 <div className="step-item active">

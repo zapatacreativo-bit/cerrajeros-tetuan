@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Cerrajeros Urgentes Tetuán | Respuesta Inmediata ☎ 644 936 742',
-    description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 936 742.',
+    title: 'Cerrajeros Urgentes Tetuán | Respuesta Inmediata ☎ 644 06 10 05',
+    description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 06 10 05.',
     keywords: 'cerrajero urgente tetuan, cerrajeria de urgencia madrid, cerrajero rapido',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cerrajeros-urgentes-tetuan',
     },
     openGraph: {
-        title: 'Cerrajeros Urgentes Tetuán | Respuesta Inmediata ☎ 644 936 742',
-        description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 936 742.',
+        title: 'Cerrajeros Urgentes Tetuán | Respuesta Inmediata ☎ 644 06 10 05',
+        description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cerrajeros-urgentes-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Cerrajeros Urgentes Tetuán | Respuesta Inmediata ☎ 644 936 742',
-        description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 936 742.',
+        title: 'Cerrajeros Urgentes Tetuán | Respuesta Inmediata ☎ 644 06 10 05',
+        description: 'Cerrajeros urgentes en Tetuán. Servicio de emergencia con llegada en menos de 20 minutos. Apertura sin daños. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function CerrajerosUrgentes() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -196,7 +196,7 @@ export default function CerrajerosUrgentes() {
                         </div>
 
                         <div style={{ display: 'flex', gap: '1rem' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con el técnico 644936742</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con el técnico 644061005</a>
                         </div>
                     </div>
                 </div>
@@ -226,7 +226,7 @@ export default function CerrajerosUrgentes() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Despachamos unidades móviles al instante</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Escribe ahora y recupera el acceso a tu propiedad.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>SOS Urgencias: 644 936 742</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>SOS Urgencias: 644 06 10 05</a>
                 </div>
             </section>
         </main>

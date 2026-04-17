@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Cerrajeros 24 Horas Tetuán | Urgencias ☎ 644 936 742',
-    description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 936 742.',
+    title: 'Cerrajeros 24 Horas Tetuán | Urgencias ☎ 644 06 10 05',
+    description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 06 10 05.',
     keywords: 'cerrajero 24 horas tetuan, cerrajero madrid noche, asistencia 24h',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cerrajeros-24-horas-tetuan',
     },
     openGraph: {
-        title: 'Cerrajeros 24 Horas Tetuán | Urgencias ☎ 644 936 742',
-        description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 936 742.',
+        title: 'Cerrajeros 24 Horas Tetuán | Urgencias ☎ 644 06 10 05',
+        description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cerrajeros-24-horas-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Cerrajeros 24 Horas Tetuán | Urgencias ☎ 644 936 742',
-        description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 936 742.',
+        title: 'Cerrajeros 24 Horas Tetuán | Urgencias ☎ 644 06 10 05',
+        description: 'Servicio de cerrajeros 24 horas en Tetuán. Atención inmediata día y noche. Llegamos en menos de 20 minutos. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function Cerrajeros24Horas() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -193,7 +193,7 @@ export default function Cerrajeros24Horas() {
                         </div>
 
                         <div style={{ display: 'flex', gap: '1rem' }}>
-                            <a href="tel:644936742" className="btn-secondary" style={{ padding: '15px 30px' }}>Contacto Inmediato 24/7</a>
+                            <a href="tel:644061005" className="btn-secondary" style={{ padding: '15px 30px' }}>Contacto Inmediato 24/7</a>
                         </div>
                     </div>
                 </div>
@@ -223,7 +223,7 @@ export default function Cerrajeros24Horas() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>La furgoneta está en marcha</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>No esperes horas de madrugada. Confía en el equipo que patrulla Tetuán cada noche.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Pedir Asistencia: 644 936 742</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Pedir Asistencia: 644 06 10 05</a>
                 </div>
             </section>
         </main>

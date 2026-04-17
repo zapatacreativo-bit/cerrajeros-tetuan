@@ -5,23 +5,23 @@ import FAQAccordion from '../../components/FAQAccordion';
 import '../Home.css';
 
 export const metadata: Metadata = {
-    title: 'Persianas en Tetuán | Instalación y Reparación ☎ 644 936 742',
-    description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 936 742.',
+    title: 'Persianas en Tetuán | Instalación y Reparación ☎ 644 06 10 05',
+    description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 06 10 05.',
     keywords: 'arreglar persiana tetuan, motorizacion cierres, reparacion persianas tetuan',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/persianas-tetuan',
     },
     openGraph: {
-        title: 'Persianas en Tetuán | Instalación y Reparación ☎ 644 936 742',
-        description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 936 742.',
+        title: 'Persianas en Tetuán | Instalación y Reparación ☎ 644 06 10 05',
+        description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/persianas-tetuan',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Persianas en Tetuán | Instalación y Reparación ☎ 644 936 742',
-        description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 936 742.',
+        title: 'Persianas en Tetuán | Instalación y Reparación ☎ 644 06 10 05',
+        description: 'Reparación, instalación y motorización de persianas en Tetuán. Persianas térmicas y cierres metálicos para comercios. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -73,7 +73,7 @@ export default function Persianas() {
         "provider": {
             "@type": "LocalBusiness",
             "name": "Cerrajeros Tetuán",
-            "telephone": "644936742"
+            "telephone": "644061005"
         },
         "areaServed": {
             "@type": "City",
@@ -197,7 +197,7 @@ export default function Persianas() {
                         <p className="section-desc" style={{ marginBottom: '1.5rem', marginLeft: 0 }}>Además para nuestros vecinos más vulnerables de la Ventilla que no cuentan con la fuerza para subir las lamas pesadas, instalar un pequeño motor es la inyección de <em>calidad vital y autonomía</em> más directa que hay. Nuestros <Link href="/cerrajeros-urgentes-tetuan" style={{ color: '#FFD700' }}>cerrajeros urgentes en Tetuán</Link> también <strong>reparan persianas bloqueadas</strong> el mismo día.</p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: '2rem' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Persianista Oficial</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ padding: '15px 30px', background: '#dc2626', borderColor: '#dc2626' }}>Hablar con Persianista Oficial</a>
                         </div>
                     </div>
                 </div>
@@ -227,7 +227,7 @@ export default function Persianas() {
                 <div className="container fade-in-up">
                     <h2 style={{ fontSize: '2.5rem', color: '#fff', marginBottom: '1rem' }}>Pídenos presupuesto de reparación</h2>
                     <p style={{ color: '#d1d5db', fontSize: '1.25rem', marginBottom: '2.5rem' }}>Especialistas certificados en Tetuán. Domotización lista en el día.</p>
-                    <a href="tel:644936742" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Pedir Diagnóstico al 644 936 742</a>
+                    <a href="tel:644061005" className="btn-primary pulsing-btn" style={{ padding: '1.25rem 3rem', fontSize: '1.25rem', background: '#dc2626', borderColor: '#dc2626' }}>Pedir Diagnóstico al 644 06 10 05</a>
                 </div>
             </section>
         </main>

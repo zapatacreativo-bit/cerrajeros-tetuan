@@ -7,14 +7,14 @@ import '../Home.css';
 
 export const metadata: Metadata = {
     title: 'Cerrajeros en Bellas Vistas | Madrid Urgencias 24h',
-    description: 'Servicios en Bellas Vistas y Francos Rodríguez. Apertura de puertas de madera antigua, borjas y urgencias universitarias 24h. Llama al 644 936 742.',
+    description: 'Servicios en Bellas Vistas y Francos Rodríguez. Apertura de puertas de madera antigua, borjas y urgencias universitarias 24h. Llama al 644 06 10 05.',
     keywords: 'cerrajeros bellas vistas, cerrajero francos rodriguez',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cerrajeros-bellas-vistas-francos-rodriguez',
     },
     openGraph: {
         title: 'Cerrajeros en Bellas Vistas | Madrid Urgencias 24h',
-        description: 'Servicios en Bellas Vistas y Francos Rodríguez. Apertura de puertas de madera antigua, borjas y urgencias universitarias 24h. Llama al 644 936 742.',
+        description: 'Servicios en Bellas Vistas y Francos Rodríguez. Apertura de puertas de madera antigua, borjas y urgencias universitarias 24h. Llama al 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cerrajeros-bellas-vistas-francos-rodriguez',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros en Bellas Vistas | Madrid Urgencias 24h',
-        description: 'Servicios en Bellas Vistas y Francos Rodríguez. Apertura de puertas de madera antigua, borjas y urgencias universitarias 24h. Llama al 644 936 742.',
+        description: 'Servicios en Bellas Vistas y Francos Rodríguez. Apertura de puertas de madera antigua, borjas y urgencias universitarias 24h. Llama al 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -87,7 +87,7 @@ export default function BellasVistas() {
                             Mantenemos vivo el encanto del <em>Madrid clásico</em> sin descuidar tu <strong>seguridad moderna</strong>. Especialistas en extraer <strong>llaves partidas</strong> de cerraduras de borjas y preservar pesadas <em>puertas de madera</em>.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 06 10 05</a>
                             <Link href="#informes" className="btn-outline">Ver Técnicas</Link>
                         </div>
                     </div>

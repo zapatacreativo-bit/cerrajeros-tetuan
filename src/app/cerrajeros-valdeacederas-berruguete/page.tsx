@@ -7,14 +7,14 @@ import '../Home.css';
 
 export const metadata: Metadata = {
     title: 'Cerrajeros Valdeacederas y Berruguete | Madrid',
-    description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 936 742.',
+    description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 06 10 05.',
     keywords: 'cerrajeros valdeacederas, cerrajero berruguete',
     alternates: {
         canonical: 'https://www.tetuancerrajeros.com/cerrajeros-valdeacederas-berruguete',
     },
     openGraph: {
         title: 'Cerrajeros Valdeacederas y Berruguete | Madrid',
-        description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 936 742.',
+        description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 06 10 05.',
         url: 'https://www.tetuancerrajeros.com/cerrajeros-valdeacederas-berruguete',
         images: [{ url: 'https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png', width: 1200, height: 630 }],
         type: 'website',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     twitter: {
         card: 'summary_large_image',
         title: 'Cerrajeros Valdeacederas y Berruguete | Madrid',
-        description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 936 742.',
+        description: 'Tus cerrajeros de confianza en Valdeacederas y Berruguete. Mejora la seguridad de tu hogar contra robos por bumping. Presupuesto sin compromiso. 644 06 10 05.',
         images: ['https://www.tetuancerrajeros.com/images/home_hero_1772538336101.png'],
     }
 };
@@ -87,7 +87,7 @@ export default function ValdeacederasBerruguete() {
                             Convertimos tu piso en una fortaleza. Especialistas en <strong>estudios de vulnerabilidad gratuitos</strong> contra métodos de asalto e <em>instalación de alta seguridad antibumping</em> para todas las familias del barrio.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-                            <a href="tel:644936742" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 936 742</a>
+                            <a href="tel:644061005" className="btn-primary" style={{ background: '#dc2626', borderColor: '#dc2626' }}>Call 644 06 10 05</a>
                             <Link href="#informes" className="btn-outline">Ver Procedimientos</Link>
                         </div>
                     </div>
